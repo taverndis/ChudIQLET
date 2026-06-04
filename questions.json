@@ -1,0 +1,2102 @@
+[
+  {
+    "n": 1,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Combien de calories contient 1 gramme de protéines ?",
+    "a": "4 kcal par gramme de protéines."
+  },
+  {
+    "n": 2,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Combien de calories contient 1 gramme de lipides ?",
+    "a": "9 kcal par gramme de lipides."
+  },
+  {
+    "n": 3,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Combien de calories contient 1 gramme de glucides ?",
+    "a": "4 kcal par gramme de glucides."
+  },
+  {
+    "n": 4,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que la whey protéine ?",
+    "a": "Une protéine issue du lactosérum (sous-produit du fromage), à absorption rapide, riche en BCAA, idéale post-entraînement."
+  },
+  {
+    "n": 5,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Quelle est la recommandation classique en protéines pour un pratiquant de musculation ?",
+    "a": "Entre 1,6 et 2,2 g de protéines par kg de poids corporel par jour."
+  },
+  {
+    "n": 6,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que la créatine ?",
+    "a": "Un complément qui augmente les stocks de phosphocréatine musculaire, améliorant la force et la puissance sur les efforts courts et intenses."
+  },
+  {
+    "n": 7,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Les glucides sont-ils nécessaires en musculation ?",
+    "a": "Oui, ils sont la source d'énergie principale pour les efforts intenses (glycolyse) et rechargent le glycogène musculaire."
+  },
+  {
+    "n": 8,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que la caséine et quand la consommer ?",
+    "a": "Une protéine du lait à digestion lente (6-8h), idéale avant le coucher pour limiter le catabolisme nocturne."
+  },
+  {
+    "n": 9,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un surplus calorique ?",
+    "a": "Consommer plus de calories qu'on en dépense — nécessaire pour prendre du muscle (prise de masse)."
+  },
+  {
+    "n": 10,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un déficit calorique ?",
+    "a": "Consommer moins de calories que l'on en dépense — utilisé en sèche pour perdre de la graisse."
+  },
+  {
+    "n": 11,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que les BCAAs et quels sont-ils ?",
+    "a": "Les acides aminés à chaîne ramifiée : Leucine, Isoleucine et Valine. Essentiels, non synthétisés par le corps, importants pour la synthèse protéique."
+  },
+  {
+    "n": 12,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Quel est le rôle de la leucine dans la synthèse protéique ?",
+    "a": "Elle active mTOR, le principal mécanisme déclencheur de la synthèse protéique musculaire. C'est le BCAA le plus anabolique."
+  },
+  {
+    "n": 13,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'index glycémique (IG) ?",
+    "a": "Une mesure de la rapidité avec laquelle un aliment élève la glycémie. IG élevé = absorption rapide du sucre."
+  },
+  {
+    "n": 14,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Pourquoi les lipides sont-ils importants pour un pratiquant de musculation ?",
+    "a": "Ils permettent la synthèse des hormones stéroïdiennes (testostérone), apportent de l'énergie et transportent les vitamines liposolubles A, D, E, K."
+  },
+  {
+    "n": 15,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la fenêtre anabolique post-entraînement ?",
+    "a": "La période (~2h) après l'effort où l'absorption des protéines et glucides est optimisée pour la récupération et la synthèse protéique."
+  },
+  {
+    "n": 16,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la glutamine ?",
+    "a": "Un acide aminé conditionnel qui soutient l'immunité, la santé intestinale et la récupération après des efforts intenses."
+  },
+  {
+    "n": 17,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la vitamine D et pourquoi est-elle importante en musculation ?",
+    "a": "Elle régule la santé osseuse, la fonction musculaire et la sécrétion de testostérone. Une carence nuit aux performances."
+  },
+  {
+    "n": 18,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la bêta-alanine et quel effet ressent-on ?",
+    "a": "Un acide aminé qui augmente la carnosine musculaire, tamponnant l'acidité lors des efforts intenses. Elle provoque des picotements bénins (paresthésies)."
+  },
+  {
+    "n": 19,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le magnésium et pourquoi est-il crucial pour les sportifs ?",
+    "a": "Un minéral impliqué dans plus de 300 réactions enzymatiques, dont la synthèse protéique, la contraction musculaire et la régulation nerveuse."
+  },
+  {
+    "n": 20,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Pourquoi les œufs sont-ils une protéine de référence ?",
+    "a": "Leur score PDCAAS est proche de 1 (maximum), ce qui en fait une protéine complète avec un profil idéal en acides aminés essentiels."
+  },
+  {
+    "n": 21,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la voie mTORC1 et son rôle dans la prise de masse ?",
+    "a": "mTORC1 (mechanistic Target Of Rapamycin Complex 1) est une kinase centrale qui intègre les signaux nutritionnels (leucine, insuline) et mécaniques pour activer la synthèse protéique musculaire."
+  },
+  {
+    "n": 22,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Quelle est la différence entre un acide aminé essentiel et non essentiel ?",
+    "a": "Essentiel = ne peut pas être synthétisé par le corps, doit être apporté par l'alimentation (ex : leucine, lysine). Non essentiel = synthétisé par le corps (ex : alanine, glycine)."
+  },
+  {
+    "n": 23,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le score DIAAS et en quoi est-il supérieur au PDCAAS ?",
+    "a": "Le DIAAS (Digestible Indispensable Amino Acid Score) mesure la digestibilité de chaque acide aminé individuellement, là où le PDCAAS tronque à 100 et ne distingue pas les acides aminés. Il est plus précis."
+  },
+  {
+    "n": 24,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la thermogenèse alimentaire (TEF) et quels macros ont le TEF le plus élevé ?",
+    "a": "L'énergie dépensée pour digérer et métaboliser les aliments. Les protéines ont le TEF le plus élevé (25-30%), contre 5-10% pour les glucides et 0-3% pour les lipides."
+  },
+  {
+    "n": 25,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la néoglucogenèse et dans quelles conditions se produit-elle ?",
+    "a": "La synthèse de glucose à partir de précurseurs non glucidiques (acides aminés, glycérol, lactate) par le foie. Elle se produit principalement en jeûne prolongé ou en cas d'hypoglycémie sévère."
+  },
+  {
+    "n": 26,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la phosphocréatine et quel système énergétique alimente-t-elle ?",
+    "a": "La phosphocréatine est un composé stocké dans le muscle qui régénère l'ATP instantanément via le système alactique (phosphagène), actif sur 0 à 10 secondes d'effort maximal."
+  },
+  {
+    "n": 27,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Quel est le rôle de l'HMB (bêta-hydroxy-bêta-méthylbutyrate) ?",
+    "a": "Métabolite de la leucine, l'HMB inhibe la protéolyse musculaire (dégradation des protéines) et peut avoir un léger effet anti-catabolique, surtout chez les débutants ou en déficit calorique."
+  },
+  {
+    "n": 28,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la cycloïde d'énergie dans le cadre d'une prise de masse 'lean' ?",
+    "a": "Une approche consistant à alterner des périodes de léger surplus (jours d'entraînement) et de légère maintenance ou déficit (jours de repos) pour maximiser les gains musculaires tout en limitant la prise de graisse."
+  },
+  {
+    "n": 29,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la cétose et est-elle compatible avec la musculation ?",
+    "a": "État métabolique où le corps utilise les cétones (issues de la dégradation des graisses) comme carburant principal. Compatible avec la musculation mais suboptimale pour les efforts intenses anaérobies qui requièrent du glucose."
+  },
+  {
+    "n": 30,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Quel est l'impact de la vitamine K2 sur la santé osseuse en musculation ?",
+    "a": "La K2 active l'ostéocalcine (protéine qui fixe le calcium dans l'os) et la protéine MGP (inhibe la calcification artérielle). Elle optimise l'utilisation du calcium et de la vitamine D3 pour la santé osseuse."
+  },
+  {
+    "n": 31,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Quelle est la différence entre la phosphorylation oxydative et la glycolyse dans le contexte de la musculation ?",
+    "a": "La glycolyse est anaérobie, produit 2 ATP + lactate rapidement (efforts 10s-2min). La phosphorylation oxydative est aérobie, produit 30-32 ATP par molécule de glucose mais lentement. En musculation, la glycolyse domine pour les séries de 6-20 reps."
+  },
+  {
+    "n": 32,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Qu'est-ce que l'autophagie et quel est son rapport avec le jeûne intermittent en musculation ?",
+    "a": "L'autophagie est le processus de dégradation et recyclage des composants cellulaires endommagés. Le jeûne l'active via l'inhibition de mTOR et l'activation d'AMPK. En musculation, c'est un compromis : bénéfique pour la santé cellulaire mais potentiellement catabolique si prolongé."
+  },
+  {
+    "n": 33,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Qu'est-ce que le cycle de Krebs (cycle de l'acide citrique) et son rôle dans le métabolisme du sportif ?",
+    "a": "Cycle de 8 réactions dans la mitochondrie qui oxyde l'acétyl-CoA (issu des glucides, lipides et protéines) pour produire du NADH et du FADH2, alimentant la chaîne respiratoire pour produire de l'ATP aérobie."
+  },
+  {
+    "n": 34,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Qu'est-ce que le rapport omega-6/omega-3 et pourquoi est-il critique pour la récupération musculaire ?",
+    "a": "Un ratio élevé (>10:1) favorise l'inflammation chronique via la production de prostaglandines pro-inflammatoires (AA → PGE2). Un ratio optimal (~3-4:1) favorise la résolution de l'inflammation et la récupération. L'alimentation occidentale dépasse souvent 15:1."
+  },
+  {
+    "n": 35,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Qu'est-ce que la signalisation par AMPK et en quoi est-elle antagoniste de mTOR ?",
+    "a": "L'AMPK (AMP-activated kinase) est activée lors d'un déficit énergétique (sport d'endurance, jeûne). Elle inhibe mTOR via phosphorylation de TSC2 et Raptor, bloquant la synthèse protéique. C'est pourquoi combiner cardio intense et musculation nécessite une planification soigneuse."
+  },
+  {
+    "n": 36,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Combien de litres d'eau faut-il boire par jour lors d'un entraînement intensif ?",
+    "a": "Au moins 2 à 3 litres par jour selon la chaleur et la transpiration."
+  },
+  {
+    "n": 37,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Quel signe visible indique une déshydratation légère ?",
+    "a": "Une urine jaune foncé à ambrée. Une urine jaune clair indique une bonne hydratation."
+  },
+  {
+    "n": 38,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Le café déshydrate-t-il vraiment ?",
+    "a": "Légèrement oui, mais à dose modérée (1-3 cafés/jour), il ne cause pas de déshydratation significative chez les habitués."
+  },
+  {
+    "n": 39,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "L'alcool déshydrate-t-il ? Pourquoi ?",
+    "a": "Oui, l'alcool inhibe l'hormone antidiurétique (ADH), ce qui augmente la production d'urine et donc la perte d'eau."
+  },
+  {
+    "n": 40,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Est-ce que la soif est un bon indicateur pour savoir qu'on doit boire ?",
+    "a": "Non, la soif apparaît quand on est déjà légèrement déshydraté. Il faut boire régulièrement sans attendre la soif."
+  },
+  {
+    "n": 41,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Les fruits et légumes contribuent-ils à l'hydratation ?",
+    "a": "Oui, certains comme le concombre, la pastèque ou la tomate contiennent plus de 90% d'eau."
+  },
+  {
+    "n": 42,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Faut-il boire pendant l'entraînement ?",
+    "a": "Oui, il faut boire régulièrement pendant l'entraînement (150-250 ml toutes les 15-20 minutes) pour compenser la perte par transpiration."
+  },
+  {
+    "n": 43,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Qu'est-ce qu'une boisson isotonique ?",
+    "a": "Une boisson dont la concentration en sels minéraux et sucres est similaire au plasma sanguin (~280-310 mOsm/L), favorisant une absorption rapide pendant l'effort."
+  },
+  {
+    "n": 44,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Quel électrolyte perdu dans la sueur est le plus critique pour la contraction musculaire ?",
+    "a": "Le sodium est le principal électrolyte de la sueur. Le potassium, le magnésium et le calcium jouent aussi un rôle dans la contraction musculaire."
+  },
+  {
+    "n": 45,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'hyponatrémie et comment survient-elle ?",
+    "a": "Une dilution du sodium sanguin (< 135 mmol/L) causée par une consommation excessive d'eau sans compensation en sodium. Peut causer des nausées, convulsions, voire un coma."
+  },
+  {
+    "n": 46,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Quel est le pourcentage d'eau dans le muscle squelettique ?",
+    "a": "Environ 75%. Une déshydratation même légère (1-2%) peut réduire la force et l'endurance musculaire."
+  },
+  {
+    "n": 47,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Quelle est la différence entre une boisson hypotonique, isotonique et hypertonique ?",
+    "a": "Hypotonique < plasma (absorption rapide, peu d'énergie). Isotonique ≈ plasma (équilibre optimal). Hypertonique > plasma (absorption plus lente, plus d'énergie — ex: jus de fruit pur)."
+  },
+  {
+    "n": 48,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "La déshydratation impact-elle les performances cognitives lors d'un entraînement ?",
+    "a": "Oui, même une déshydratation de 2% réduit les fonctions cognitives : concentration, temps de réaction, coordination — impactant la qualité technique des exercices."
+  },
+  {
+    "n": 49,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Comment le rein régule-t-il l'équilibre hydrique lors d'un effort intense ?",
+    "a": "Le rein ajuste la réabsorption d'eau via l'hormone antidiurétique (ADH/vasopressine) et le système rénine-angiotensine-aldostérone (SRAA). En déshydratation, l'ADH augmente et concentre l'urine."
+  },
+  {
+    "n": 50,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le sodium intracellulaire vs extracellulaire et son impact sur la performance ?",
+    "a": "Le sodium est principalement extracellulaire (140 mmol/L plasma vs 10-15 mmol/L intracellulaire). Ce gradient maintenu par la pompe Na+/K+ ATPase est essentiel au potentiel d'action musculaire. La fatigue musculaire est en partie liée à sa perturbation."
+  },
+  {
+    "n": 51,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Quel est l'impact de la déshydratation sur la viscosité sanguine et la performance ?",
+    "a": "La déshydratation augmente l'hématocrite (proportion de globules rouges), augmentant la viscosité du sang. Cela réduit le débit cardiaque, diminue l'apport en O2 aux muscles et accélère la fatigue."
+  },
+  {
+    "n": 52,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la stratégie d'hyperhydratation pré-effort ?",
+    "a": "Consommer des fluides (et parfois du glycérol) avant l'effort pour augmenter les réserves hydriques totales. Peut améliorer l'endurance par temps chaud mais présente un risque d'hyponatrémie si mal dosée."
+  },
+  {
+    "n": 53,
+    "cat": "hydratation",
+    "diff": "expert",
+    "q": "Expliquez le mécanisme moléculaire par lequel la déshydratation augmente le RPE (perceived exertion) lors d'un effort.",
+    "a": "La déshydratation réduit le volume plasmatique, augmentant la fréquence cardiaque pour maintenir le débit (loi de Frank-Starling). L'augmentation de la température centrale active les afférences thermiques qui amplifient la perception centrale de la fatigue via les noyaux parabrachial et insula, augmentant le RPE indépendamment de la fatigue périphérique."
+  },
+  {
+    "n": 54,
+    "cat": "hydratation",
+    "diff": "expert",
+    "q": "Quel est le rôle des aquaporines dans l'hydratation musculaire ?",
+    "a": "Les aquaporines (AQP) sont des canaux protéiques membranaires qui facilitent le transport rapide de l'eau à travers les membranes cellulaires. AQP4 est dominante dans le muscle squelettique. L'entraînement augmente leur expression, améliorant la régulation hydrique intramusculaire."
+  },
+  {
+    "n": 55,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que le principe de surcharge progressive ?",
+    "a": "Augmenter progressivement la charge, le volume ou l'intensité pour continuer à stimuler les adaptations musculaires."
+  },
+  {
+    "n": 56,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que le 1RM (one rep max) ?",
+    "a": "La charge maximale qu'un individu peut soulever une seule fois avec une technique correcte."
+  },
+  {
+    "n": 57,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Quelle fourchette de répétitions est classiquement associée à l'hypertrophie ?",
+    "a": "6 à 12 répétitions par série avec une charge modérée à élevée."
+  },
+  {
+    "n": 58,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un 'drop set' ?",
+    "a": "Enchaîner immédiatement une série à charge réduite après avoir atteint l'échec musculaire à la charge initiale."
+  },
+  {
+    "n": 59,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un 'superset' ?",
+    "a": "Enchaîner deux exercices sans repos entre eux, généralement pour des muscles antagonistes ou complémentaires."
+  },
+  {
+    "n": 60,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Combien de jours de repos sont recommandés par semaine pour un débutant ?",
+    "a": "Au moins 2 à 3 jours de repos pour permettre la récupération musculaire."
+  },
+  {
+    "n": 61,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'échauffement et pourquoi est-il important ?",
+    "a": "Une phase préparatoire qui augmente la température musculaire, active le système nerveux et réduit le risque de blessures."
+  },
+  {
+    "n": 62,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que le 'pump' musculaire ?",
+    "a": "L'afflux sanguin intense dans le muscle pendant l'effort, causé par l'accumulation de métabolites et l'augmentation de la pression intramusculaire."
+  },
+  {
+    "n": 63,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que la phase concentrique d'un exercice ?",
+    "a": "La phase où le muscle se contracte et raccourcit (ex : montée de la barre lors d'un curl biceps)."
+  },
+  {
+    "n": 64,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que la phase excentrique d'un exercice ?",
+    "a": "La phase où le muscle s'allonge sous tension (ex : descente de la barre lors d'un curl biceps). Très importante pour l'hypertrophie."
+  },
+  {
+    "n": 65,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la périodisation en musculation ?",
+    "a": "L'organisation planifiée de l'entraînement en phases (force, hypertrophie, endurance, récupération) pour optimiser les gains et éviter le surentraînement."
+  },
+  {
+    "n": 66,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le 'deload' ?",
+    "a": "Une semaine d'entraînement à volume et/ou intensité réduits pour permettre au corps de récupérer et repartir plus fort."
+  },
+  {
+    "n": 67,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la tension mécanique dans le contexte de l'hypertrophie ?",
+    "a": "La force exercée sur les fibres musculaires lors du soulèvement d'une charge lourde. C'est l'un des trois stimuli principaux de l'hypertrophie avec le stress métabolique et les dommages musculaires."
+  },
+  {
+    "n": 68,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le RPE (Rate of Perceived Exertion) ?",
+    "a": "Une échelle de 1 à 10 mesurant l'intensité perçue de l'effort. RPE 10 = effort maximal, RPE 7 = encore 3 répétitions en réserve."
+  },
+  {
+    "n": 69,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le volume d'entraînement et comment se calcule-t-il ?",
+    "a": "Le volume total de travail effectué, calculé comme : séries × répétitions × charge (en kg)."
+  },
+  {
+    "n": 70,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le 'time under tension' (TUT) ?",
+    "a": "La durée totale pendant laquelle le muscle est sous tension lors d'une série. Un TUT élevé (par tempo ralenti) favorise l'hypertrophie."
+  },
+  {
+    "n": 71,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le travail isométrique ?",
+    "a": "Une contraction musculaire sans mouvement articulaire (longueur du muscle constante), comme tenir la position basse d'un squat."
+  },
+  {
+    "n": 72,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le surentraînement (overtraining) ?",
+    "a": "Un état de fatigue chronique où les performances stagnent ou régressent car le corps ne récupère pas suffisamment entre les séances."
+  },
+  {
+    "n": 73,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le mind-muscle connection ?",
+    "a": "La capacité à isoler et contracter intentionnellement un muscle cible lors d'un exercice, améliorant son activation et l'efficacité du mouvement."
+  },
+  {
+    "n": 74,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la plyométrie ?",
+    "a": "Des exercices explosifs (sauts, bonds) qui développent la puissance musculaire en exploitant le cycle étirement-raccourcissement."
+  },
+  {
+    "n": 75,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Quelle est la différence entre hypertrophie sarcoplasmique et myofibrillaire ?",
+    "a": "Sarcoplasmique = augmentation du volume du sarcoplasme (liquide et organites) sans gain de force proportionnel. Myofibrillaire = augmentation du nombre et de la densité des myofibrilles, associée à des gains de force importants."
+  },
+  {
+    "n": 76,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la PAP (Post-Activation Potentiation) ?",
+    "a": "L'amélioration transitoire de la puissance musculaire suite à une contraction maximale préalable. Ex : squat lourd → saut 5 minutes après. Dû à la phosphorylation des chaînes légères de myosine."
+  },
+  {
+    "n": 77,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le principe de spécificité (SAID) en musculation ?",
+    "a": "SAID = Specific Adaptations to Imposed Demands. Le corps s'adapte spécifiquement aux stimuli imposés. Pour devenir plus fort au squat, il faut s'entraîner au squat et à des mouvements similaires."
+  },
+  {
+    "n": 78,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la loi de Henneman (size principle) dans le recrutement des unités motrices ?",
+    "a": "Les unités motrices sont recrutées par ordre croissant de taille : d'abord les fibres lentes (type I, seuil bas), puis les fibres rapides (type IIa, IIx) à mesure que la force requise augmente. Charges lourdes ou séries à l'échec recrutent les fibres rapides."
+  },
+  {
+    "n": 79,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Quelle est la différence entre les fibres musculaires de type I, IIa et IIx ?",
+    "a": "Type I : lentes, résistantes à la fatigue, oxydatives, pour l'endurance. Type IIa : rapides, mixtes (oxydatives + glycolytiques), pour la puissance-endurance. Type IIx : très rapides, glycolytiques, se fatiguent vite, pour les efforts courts et explosifs."
+  },
+  {
+    "n": 80,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la réserve adaptative et pourquoi diminue-t-elle avec l'expérience ?",
+    "a": "C'est la marge de progression encore possible chez un athlète. Elle est maximale chez le débutant (réponse forte aux moindres stimuli) et diminue avec l'expérience car le corps s'est déjà adapté à la plupart des stimuli standards — d'où la nécessité de techniques avancées."
+  },
+  {
+    "n": 81,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Expliquez le mécanisme moléculaire de la synthèse protéique musculaire après un entraînement de résistance.",
+    "a": "L'étirement mécanique active les intégrines et les mécanosenseurs (FAK, titin), déclenchant la cascade PI3K/Akt/mTORC1. mTORC1 phosphoryle S6K1 et 4E-BP1, initiant la traduction des ARNm via le recrutement au ribosome. La leucine issue de la protéolyse et du repas amplifie ce signal. La MPS reste élevée 24-48h post-effort."
+  },
+  {
+    "n": 82,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que l'interférence musculaire (concurrent training effect) entre l'entraînement cardio et la musculation ?",
+    "a": "L'activation d'AMPK par l'endurance inhibe mTOR et donc la synthèse protéique induite par la musculation. L'amplitude de l'interférence dépend du type (cyclisme < course), volume et proximité temporelle. Séparer les séances de 6h minimum ou les faire dans l'ordre musculation→cardio réduit l'interférence."
+  },
+  {
+    "n": 83,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que la répétition excentrique supramaximale et pourquoi génère-t-elle plus d'hypertrophie ?",
+    "a": "Une charge dépassant le 1RM concentrique (possible car la force excentrique est 20-40% supérieure). Elle génère plus de dommages myofibrillaires, une tension mécanique maximale et une activation accrue des voies de signalisation anaboliques (mTOR, satellites cellulaires). Nécessite un partenaire."
+  },
+  {
+    "n": 84,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que le concept de 'MEV, MAV, MRV' dans la programmation avancée ?",
+    "a": "MEV (Minimum Effective Volume) : volume minimal pour progresser. MAV (Maximum Adaptive Volume) : volume optimal. MRV (Maximum Recoverable Volume) : volume maximal que le corps peut récupérer. L'objectif est de s'entraîner entre MEV et MRV, en montant progressivement vers le MAV au fil des semaines."
+  },
+  {
+    "n": 85,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que le stress métabolique dans le contexte de la musculation ?",
+    "a": "L'accumulation de métabolites (lactate, ions H+, phosphate inorganique) dans le muscle pendant l'effort, qui contribue à l'hypertrophie musculaire."
+  },
+  {
+    "n": 86,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que le lactate (anciennement appelé acide lactique) ?",
+    "a": "Un sous-produit de la glycolyse anaérobie produit lors des efforts intenses. Il sert également de carburant pour d'autres muscles et le cœur, et n'est pas uniquement responsable des brûlures musculaires."
+  },
+  {
+    "n": 87,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que la 'brûlure' ressentie lors d'une série à hautes répétitions ?",
+    "a": "Elle est principalement due à l'accumulation d'ions H+ (acidose) et de phosphate inorganique dans le muscle, et non à l'acide lactique comme souvent cru."
+  },
+  {
+    "n": 88,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Quels types d'exercices génèrent le plus de stress métabolique ?",
+    "a": "Les exercices à répétitions élevées (15-30 reps), avec peu de repos, en occlusion ou à fort pump musculaire — comme les supersets, circuits et méthodes avec bande élastique."
+  },
+  {
+    "n": 89,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Le stress métabolique seul suffit-il à provoquer l'hypertrophie ?",
+    "a": "Non, il est l'un des trois stimuli de l'hypertrophie avec la tension mécanique et les dommages musculaires. Ils agissent en synergie."
+  },
+  {
+    "n": 90,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le seuil lactique et pourquoi est-il important en musculation ?",
+    "a": "L'intensité à partir de laquelle le lactate s'accumule plus vite qu'il n'est éliminé. Au-dessus, le milieu intramusculaire s'acidifie rapidement, limitant la durée de l'effort et générant un fort stress métabolique."
+  },
+  {
+    "n": 91,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Comment le stress métabolique stimule-t-il l'hypertrophie selon les théories actuelles ?",
+    "a": "Via plusieurs mécanismes : gonflement cellulaire (cell swelling), libération locale d'IGF-1 et de MGF (Mechano Growth Factor), activation des cellules satellites, hausse des hormones anaboliques locales et systémiques (GH, IGF-1)."
+  },
+  {
+    "n": 92,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'entraînement en occlusion (BFR - Blood Flow Restriction) ?",
+    "a": "Une technique utilisant un garrot pour limiter le retour veineux (sans bloquer l'artériel), créant une accumulation massive de métabolites dans le muscle avec de faibles charges (20-30% 1RM), produisant une hypertrophie similaire à des charges lourdes."
+  },
+  {
+    "n": 93,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Pourquoi le repos court entre les séries augmente-t-il le stress métabolique ?",
+    "a": "Un repos court (30-60s) ne permet pas l'élimination complète des métabolites accumulés (H+, lactate, Pi), maintenant un milieu acide et créant un stress cumulatif plus élevé sur la durée de la séance."
+  },
+  {
+    "n": 94,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le gonflement cellulaire (cell swelling) et son effet anabolique ?",
+    "a": "L'entrée d'eau dans la cellule musculaire due à l'accumulation d'osmolytes (lactate, ions). Ce gonflement est perçu comme un signal anabolique par la cellule, activant des voies de synthèse protéique et inhibant la protéolyse."
+  },
+  {
+    "n": 95,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Quel est le rôle du phosphate inorganique (Pi) dans la fatigue musculaire lors d'un stress métabolique ?",
+    "a": "Le Pi (libéré lors de l'hydrolyse de l'ATP et de la phosphocréatine) s'accumule dans la cellule et inhibe directement le couplage excitation-contraction en bloquant la libération de Ca²+ du réticulum sarcoplasmique et en réduisant la sensibilité des myofilaments au calcium."
+  },
+  {
+    "n": 96,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la théorie de l'hypertrophie par le gonflement cellulaire et quelles voies moléculaires active-t-elle ?",
+    "a": "Le gonflement cellulaire active les canaux ioniques mécano-sensibles, les intégrines et la PI3K, déclenchant mTORC1 et inhibant la voie ubiquitine-protéasome (protéolyse). Il régule aussi les voies YES-associated protein (YAP) impliquées dans la croissance cellulaire."
+  },
+  {
+    "n": 97,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Quelle est la différence entre l'acidose lactique et la fatigue musculaire centrale ?",
+    "a": "L'acidose (H+ et Pi périphérique) est une fatigue périphérique qui réduit l'efficacité contractile du muscle. La fatigue centrale est une réduction de l'activation neurale du muscle par le SNC, indépendante de l'état du muscle. Les deux coexistent lors d'efforts intenses."
+  },
+  {
+    "n": 98,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Pourquoi l'entraînement BFR produit-il une hypertrophie avec de faibles charges ?",
+    "a": "Le BFR crée une ischémie locale qui force le recrutement précoce des fibres rapides (type II) par épuisement rapide des fibres lentes. L'accumulation massive de métabolites (stress métabolique ++) et le gonflement cellulaire activent mTOR sans nécessiter de tension mécanique élevée."
+  },
+  {
+    "n": 99,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Expliquez le rôle du réticulum sarcoplasmique et de la troponine C dans la régulation du calcium lors du stress métabolique.",
+    "a": "Le RS libère du Ca²+ via les récepteurs à la ryanodine (RyR1) lors du potentiel d'action. Le Ca²+ se lie à la troponine C, déclenchant un changement conformationnel qui déplace la tropomyosine, exposant les sites de liaison de l'actine pour la myosine. L'acidose et le Pi inhibent cette liaison, réduisant la force de contraction."
+  },
+  {
+    "n": 100,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Quel est le rôle des espèces réactives de l'oxygène (ROS) dans l'adaptation musculaire au stress métabolique ?",
+    "a": "Les ROS produites lors d'efforts intenses activent des voies de signalisation (NF-κB, PGC-1α, Nrf2) qui déclenchent des adaptations : biogenèse mitochondriale, défenses antioxydantes, inflammation réparatrice. À dose excessive, elles causent des dommages oxydatifs. D'où le paradoxe : les antioxydants en excès peuvent inhiber les adaptations à l'entraînement."
+  },
+  {
+    "n": 101,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Qu'est-ce que le DOMS (Delayed Onset Muscle Soreness) ?",
+    "a": "Les courbatures apparaissant 24 à 72h après un effort intense, causées par des micro-déchirures musculaires et l'inflammation associée."
+  },
+  {
+    "n": 102,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Quelle est la différence entre récupération active et passive ?",
+    "a": "Active = légère activité (marche, vélo léger) pour améliorer la circulation et l'élimination des déchets. Passive = repos total."
+  },
+  {
+    "n": 103,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "À quoi servent les étirements statiques après l'entraînement ?",
+    "a": "Ils réduisent les tensions musculaires, améliorent la flexibilité et contribuent à la récupération musculaire."
+  },
+  {
+    "n": 104,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Quel est l'intérêt du foam rolling (rouleau de mousse) ?",
+    "a": "Il améliore la circulation sanguine, réduit les adhérences fasciales et les tensions musculaires, et accélère l'élimination des déchets métaboliques."
+  },
+  {
+    "n": 105,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Pourquoi la récupération est-elle aussi importante que l'entraînement ?",
+    "a": "Le muscle ne se construit pas pendant l'effort mais pendant le repos. Sans récupération suffisante, il n'y a pas d'adaptation ni de progression."
+  },
+  {
+    "n": 106,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Qu'est-ce que la fenêtre de récupération post-effort ?",
+    "a": "La période de 30 à 60 minutes après l'entraînement où la resynthèse du glycogène et la synthèse protéique sont optimales."
+  },
+  {
+    "n": 107,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la synthèse protéique musculaire (MPS) ?",
+    "a": "Le processus cellulaire par lequel le corps construit de nouvelles protéines musculaires à partir d'acides aminés, stimulé par l'entraînement et les protéines alimentaires."
+  },
+  {
+    "n": 108,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Quel est l'intérêt du bain froid (cryothérapie) après l'entraînement ?",
+    "a": "Il réduit l'inflammation et les courbatures à court terme via la vasoconstriction. Attention : il peut inhiber les adaptations musculaires à long terme s'il est utilisé après chaque séance."
+  },
+  {
+    "n": 109,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la proprioception et pourquoi est-elle importante en musculation ?",
+    "a": "La capacité du corps à percevoir sa position dans l'espace. Essentielle pour la stabilité articulaire, la coordination et la prévention des blessures."
+  },
+  {
+    "n": 110,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le massage sportif et son rôle dans la récupération ?",
+    "a": "Il améliore le flux sanguin et lymphatique, réduit les tensions musculaires et les adhérences, diminue la perception des courbatures et améliore le bien-être psychologique."
+  },
+  {
+    "n": 111,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Quel est le rôle du sommeil profond dans la récupération musculaire ?",
+    "a": "C'est durant cette phase que la GH est sécrétée de manière maximale, permettant la réparation des tissus, la croissance musculaire et la reconstitution des réserves énergétiques."
+  },
+  {
+    "n": 112,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la surcompensation en musculation ?",
+    "a": "Le phénomène par lequel le corps, après une charge d'entraînement et une récupération adéquate, dépasse son niveau de performance initial avant de redescendre si aucun nouveau stimulus n'est appliqué."
+  },
+  {
+    "n": 113,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Quel est l'impact de la cryothérapie sur la signalisation anabolique à long terme ?",
+    "a": "Le bain froid post-effort inhibe la voie mTOR et réduit l'activation des cellules satellites, bloquant partiellement les adaptations musculaires. Des études montrent une réduction de la prise de masse sur plusieurs semaines si utilisé systématiquement post-musculation."
+  },
+  {
+    "n": 114,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le surentraînement fonctionnel (overreaching) vs le vrai syndrome de surentraînement ?",
+    "a": "L'overreaching fonctionnel est une accumulation de fatigue volontaire sur quelques semaines, suivie d'un deload, qui mène à une surcompensation. Le syndrome de surentraînement (OTS) est un état pathologique chronique (mois) avec altérations hormonales, immunitaires et psychologiques, nécessitant une récupération prolongée."
+  },
+  {
+    "n": 115,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Quel est le rôle des cellules satellites dans la récupération et l'hypertrophie musculaire ?",
+    "a": "Ce sont des cellules souches musculaires quiescentes entre le sarcolemme et la lame basale. Activées par des dommages mécaniques ou métaboliques, elles prolifèrent, fusionnent avec les fibres endommagées ou forment de nouvelles fibres (hyperplasie limitée chez l'humain), contribuant à l'hypertrophie."
+  },
+  {
+    "n": 116,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la théorie de l'inflammation réparatrice dans la récupération musculaire ?",
+    "a": "Les micro-dommages musculaires activent une réponse inflammatoire (neutrophiles → macrophages M1 → macrophages M2) nécessaire à la réparation. Les anti-inflammatoires (ibuprofène) pris systématiquement peuvent inhiber cette cascade et retarder la récupération à long terme."
+  },
+  {
+    "n": 117,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Expliquez la cascade moléculaire de la réparation musculaire après les dommages induits par l'exercice.",
+    "a": "1) Lésion → libération de myoglobine, créatine kinase, cytokines (IL-6, TNF-α). 2) Afflux de neutrophiles (0-6h) → nettoyage par ROS. 3) Macrophages M1 (24-48h) → phagocytose et IL-1β. 4) Macrophages M2 (48-72h) → IGF-1, IL-10 → activation cellules satellites. 5) Prolifération, différenciation, fusion des myoblastes → réparation et hypertrophie."
+  },
+  {
+    "n": 118,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Quel est le rôle du système ubiquitine-protéasome (UPS) dans la récupération musculaire et comment l'entraînement le module-t-il ?",
+    "a": "L'UPS est le principal système de dégradation protéique dans le muscle, via les E3 ubiquitine ligases MAFbx/atrogine-1 et MuRF-1 (upregulées par le cortisol et l'inactivité). L'entraînement de résistance inhibe ces ligases via Akt, réduisant la protéolyse. La balance MPS vs MPB (muscle protein breakdown) détermine l'hypertrophie nette."
+  },
+  {
+    "n": 119,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Quel est le rôle de la testostérone dans la musculation ?",
+    "a": "Elle stimule la synthèse protéique, favorise la croissance musculaire (anabolisme), réduit la masse grasse et améliore la récupération."
+  },
+  {
+    "n": 120,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que le cortisol et pourquoi est-il mauvais en excès pour la musculation ?",
+    "a": "Le cortisol est une hormone catabolique sécrétée lors du stress. En excès, il dégrade les protéines musculaires, favorise le stockage de graisse et nuit à la récupération."
+  },
+  {
+    "n": 121,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Quelle hormone est libérée pendant le sommeil profond et favorise la croissance musculaire ?",
+    "a": "L'hormone de croissance (GH / HGH - Human Growth Hormone)."
+  },
+  {
+    "n": 122,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'insuline et quel est son rôle dans la musculation ?",
+    "a": "Une hormone pancréatique qui permet l'entrée du glucose et des acides aminés dans les cellules. Elle est anabolique car elle favorise la synthèse protéique et le stockage du glycogène."
+  },
+  {
+    "n": 123,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que la mélatonine ?",
+    "a": "Une hormone produite par la glande pinéale dans l'obscurité, qui régule le cycle veille-sommeil (rythme circadien)."
+  },
+  {
+    "n": 124,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Quel est le rôle de l'IGF-1 en musculation ?",
+    "a": "L'Insulin-like Growth Factor 1 est libéré par le foie en réponse à la GH. Il stimule la prolifération des cellules musculaires (satellites), la synthèse protéique et l'hypertrophie."
+  },
+  {
+    "n": 125,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Quel est le lien entre le zinc et la testostérone ?",
+    "a": "Le zinc est un cofacteur essentiel à la synthèse de testostérone. Une carence en zinc peut entraîner une baisse significative des niveaux de testostérone."
+  },
+  {
+    "n": 126,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la leptine et son rôle en musculation/sèche ?",
+    "a": "Une hormone sécrétée par les adipocytes qui régule la satiété et le métabolisme. En sèche, sa chute réduit le métabolisme et augmente la faim, rendant la perte de graisse plus difficile."
+  },
+  {
+    "n": 127,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la ghréline ?",
+    "a": "L'hormone de la faim, sécrétée par l'estomac. Augmente avant les repas et diminue après. Le manque de sommeil augmente chroniquement la ghréline, favorisant la suralimentation."
+  },
+  {
+    "n": 128,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Comment l'entraînement en musculation affecte-t-il la testostérone naturellement ?",
+    "a": "Les exercices poly-articulaires lourds (squat, soulevé de terre) produisent une hausse aiguë de testostérone. L'entraînement régulier maintient des niveaux élevés à long terme."
+  },
+  {
+    "n": 129,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la DHEA ?",
+    "a": "Une hormone surrénalienne précurseur des androgènes (testostérone) et des œstrogènes. Diminue avec l'âge et peut impacter la masse musculaire et la libido."
+  },
+  {
+    "n": 130,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Quel impact le stress chronique a-t-il sur les hormones anaboliques ?",
+    "a": "Le stress chronique élève le cortisol en permanence, ce qui freine la production de testostérone (via l'axe HPA), réduit la GH et nuit à la récupération."
+  },
+  {
+    "n": 131,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Qu'est-ce que l'axe hypothalamo-hypophyso-gonadique (HPG) et son rôle dans la régulation de la testostérone ?",
+    "a": "L'hypothalamus libère la GnRH → hypophyse libère LH et FSH → cellules de Leydig (testicules) produisent la testostérone. Un excès de testostérone inhibe l'hypothalamus par rétrocontrôle négatif. Cet axe est perturbé par le surentraînement et le stress chronique."
+  },
+  {
+    "n": 132,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Quelle est la différence entre la testostérone totale et la testostérone libre ?",
+    "a": "La testostérone totale inclut toutes les formes circulantes. La testostérone libre (~1-3%) est la fraction non liée à la SHBG (Sex Hormone Binding Globulin) ni à l'albumine — c'est elle qui est biologiquement active. La SHBG augmente avec l'âge et certaines pathologies."
+  },
+  {
+    "n": 133,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Quel est le mécanisme d'action de l'insuline sur la synthèse protéique musculaire ?",
+    "a": "L'insuline se lie à son récepteur tyrosine kinase → activation de IRS-1 → PI3K → Akt → mTORC1 → S6K1 et 4E-BP1 → initiation de la traduction des ARNm. L'insuline inhibe aussi la protéolyse via l'inhibition de FoxO (régulateur des atrogines)."
+  },
+  {
+    "n": 134,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la résistance à l'insuline et comment l'exercice la combat-il ?",
+    "a": "État où les cellules répondent moins à l'insuline, nécessitant plus d'insuline pour le même effet. L'exercice augmente la sensibilité à l'insuline via la translocation du transporteur GLUT4 à la membrane musculaire (indépendante de l'insuline) et l'activation d'AMPK, persistant 24-48h post-effort."
+  },
+  {
+    "n": 135,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Quel est le rôle des œstrogènes chez l'homme en musculation ?",
+    "a": "Les œstrogènes (issus de l'aromatisation de la testostérone) jouent un rôle dans la santé osseuse, la libido, la régulation lipidique et la récupération musculaire. Un taux trop bas (ex : par inhibiteurs d'aromatase) nuit aux performances et à la santé articulaire."
+  },
+  {
+    "n": 136,
+    "cat": "hormones",
+    "diff": "expert",
+    "q": "Expliquez le mécanisme de l'axe somatotrope (GH-IGF-1) et sa régulation dans le contexte de l'entraînement.",
+    "a": "L'hypothalamus libère GHRH → hypophyse antérieure libère GH de manière pulsatile (pic nocturne). La GH agit sur le foie → synthèse d'IGF-1. L'exercice intense (surtout résistance + métabolique) est un puissant stimulant de la GH via ↑ acide lactique et ↓ somatostatine. IGF-1 active mTOR et les cellules satellites de manière paracrine/autocrine dans le muscle."
+  },
+  {
+    "n": 137,
+    "cat": "hormones",
+    "diff": "expert",
+    "q": "Qu'est-ce que la myostatine et comment peut-on la moduler naturellement ?",
+    "a": "La myostatine (GDF-8) est un inhibiteur naturel de la croissance musculaire, membre de la superfamille TGF-β. Elle active SMAD2/3, inhibant la prolifération des cellules satellites et mTOR. L'entraînement de résistance intense réduit l'expression de la myostatine. La follistatine (antagoniste naturel) augmente avec l'exercice. Les mutations perte de fonction de la myostatine produisent une hypertrophie extrême."
+  },
+  {
+    "n": 138,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Combien d'heures de sommeil sont recommandées pour maximiser la récupération musculaire ?",
+    "a": "7 à 9 heures par nuit pour un adulte en entraînement régulier."
+  },
+  {
+    "n": 139,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Pourquoi éviter les écrans avant de dormir ?",
+    "a": "La lumière bleue des écrans inhibe la production de mélatonine, retardant l'endormissement et réduisant la qualité du sommeil."
+  },
+  {
+    "n": 140,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Quelle hormone est principalement sécrétée pendant le sommeil profond ?",
+    "a": "L'hormone de croissance (GH), libérée en grande quantité durant les premiers cycles de sommeil profond."
+  },
+  {
+    "n": 141,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Qu'est-ce que le sommeil paradoxal (REM) ?",
+    "a": "La phase de sommeil avec activité cérébrale intense et mouvements oculaires rapides (Rapid Eye Movement). Importante pour la mémoire, la récupération mentale et la consolidation des apprentissages moteurs."
+  },
+  {
+    "n": 142,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Le manque de sommeil impacte-t-il la prise de masse musculaire ?",
+    "a": "Oui, il réduit la GH, augmente le cortisol, réduit la synthèse protéique et diminue les performances à l'entraînement."
+  },
+  {
+    "n": 143,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Quelle est la durée idéale d'une sieste pour récupérer sans perturber le sommeil nocturne ?",
+    "a": "20 à 30 minutes (sieste flash). Au-delà, on entre en sommeil profond ce qui cause une inertie et perturbe la nuit."
+  },
+  {
+    "n": 144,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Quel est le lien entre le sommeil et la composition corporelle ?",
+    "a": "Le manque de sommeil augmente la ghréline (faim) et diminue la leptine (satiété), favorisant la prise de graisse et la perte de masse musculaire."
+  },
+  {
+    "n": 145,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le rythme circadien et comment influence-t-il la musculation ?",
+    "a": "Le cycle biologique de 24h régulé par l'horloge interne (noyau suprachiasmatique). Il module la température corporelle, les hormones, la force musculaire et la récupération. La force maximale est généralement en fin d'après-midi (16-18h)."
+  },
+  {
+    "n": 146,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Quel est l'impact d'un repas lourd juste avant de dormir sur la récupération ?",
+    "a": "Il peut perturber le sommeil (inconfort, reflux gastro-œsophagien). Préférer une collation légère riche en caséine 30-60 min avant le coucher pour maximiser la synthèse protéique nocturne."
+  },
+  {
+    "n": 147,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'inertie du sommeil ?",
+    "a": "La sensation de groggy et de désorientation immédiatement après le réveil, surtout si l'on sort d'un sommeil profond. Dure 15-30 minutes et réduit temporairement les performances."
+  },
+  {
+    "n": 148,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Pourquoi les athlètes de haut niveau dorment-ils souvent 9-10h par nuit ?",
+    "a": "Parce que le volume d'entraînement élevé crée une dette de récupération importante. Le sommeil prolongé maximise la GH, la synthèse protéique, et la consolidation des patterns moteurs."
+  },
+  {
+    "n": 149,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Quel est l'effet de la caféine sur le sommeil et la récupération ?",
+    "a": "La caféine bloque les récepteurs à l'adénosine, réduisant la somnolence. Sa demi-vie est de 5-7h, donc une consommation après 14h peut réduire la durée et la qualité du sommeil, altérant la récupération."
+  },
+  {
+    "n": 150,
+    "cat": "sommeil",
+    "diff": "difficile",
+    "q": "Quelles sont les différentes phases du sommeil et leur architecture (hypnogramme) ?",
+    "a": "Le sommeil est organisé en cycles de ~90 minutes : N1 (endormissement léger), N2 (sommeil léger, fuseaux), N3 (sommeil profond, ondes delta - dominant en début de nuit), REM (paradoxal - dominant en fin de nuit). Un adulte passe ~4-6 cycles par nuit."
+  },
+  {
+    "n": 151,
+    "cat": "sommeil",
+    "diff": "difficile",
+    "q": "Quelle est la relation entre le sommeil lent profond (N3) et la sécrétion de GH ?",
+    "a": "Le N3 est le principal déclencheur de la sécrétion pulsatile de GH via le GHRH hypothalamique. Le premier cycle (23h-1h) produit le plus grand pic de GH de la journée. La privation de N3 supprime drastiquement la GH nocturne."
+  },
+  {
+    "n": 152,
+    "cat": "sommeil",
+    "diff": "difficile",
+    "q": "Comment l'alcool affecte-t-il l'architecture du sommeil et la récupération musculaire ?",
+    "a": "L'alcool supprime le sommeil REM en première moitié de nuit et provoque des éveils en deuxième moitié. Il inhibe la GH nocturne, augmente le cortisol, déshydrate et perturbe la resynthèse protéique — un double impact négatif sur la récupération."
+  },
+  {
+    "n": 153,
+    "cat": "sommeil",
+    "diff": "difficile",
+    "q": "Qu'est-ce que l'apnée du sommeil et son impact sur la récupération musculaire ?",
+    "a": "L'apnée du sommeil cause des micro-réveils répétés qui fragmentent le sommeil profond et REM, supprimant la GH nocturne, élevant le cortisol chronique et causant une fatigue diurne permanente. Elle est significativement plus fréquente chez les personnes en surpoids."
+  },
+  {
+    "n": 154,
+    "cat": "sommeil",
+    "diff": "expert",
+    "q": "Expliquez le mécanisme de la pression homéostatique au sommeil (Process S) et son interaction avec le rythme circadien (Process C).",
+    "a": "Le Process S (pression de sommeil) est l'accumulation d'adénosine dans le cerveau pendant l'éveil, créant une pression croissante. Le Process C (circadien) est l'évolution de l'alerte via le cortisol et la mélatonine. L'endormissement survient quand S dépasse C. La caféine bloque S via les récepteurs A1/A2A de l'adénosine. Le sommeil efface S via l'élimination de l'adénosine."
+  },
+  {
+    "n": 155,
+    "cat": "sommeil",
+    "diff": "expert",
+    "q": "Quel est le rôle du système glymphatique pendant le sommeil et son lien indirect avec les performances sportives ?",
+    "a": "Le système glymphatique est un réseau de drainage cérébral actif principalement en N3 : le LCR circule dans les espaces périvasculaires, éliminant les déchets métaboliques (bêta-amyloïde, tau). Sa perturbation par le manque de sommeil altère les fonctions cognitives (réactivité, prise de décision, motivation) essentielles à la performance sportive."
+  },
+  {
+    "n": 156,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un acide aminé ?",
+    "a": "Les briques élémentaires des protéines. Il en existe 20, dont 9 essentiels (ne peuvent pas être produits par le corps)."
+  },
+  {
+    "n": 157,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que le glycogène ?",
+    "a": "La forme de stockage des glucides dans les muscles et le foie. C'est le carburant principal lors des efforts intenses en musculation."
+  },
+  {
+    "n": 158,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la whey isolate vs concentrate ?",
+    "a": "La whey isolate est plus filtrée (>90% de protéines, très peu de lactose et lipides). La concentrate contient 70-80% de protéines avec plus de glucides et lipides. L'isolate est préférable pour les intolérants au lactose."
+  },
+  {
+    "n": 159,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Quel est le rôle du potassium dans la musculation ?",
+    "a": "Le potassium est essentiel à la contraction musculaire, à la régulation du pH cellulaire et au maintien du potentiel de membrane. Un déficit cause des crampes et une faiblesse musculaire."
+  },
+  {
+    "n": 160,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la disponibilité énergétique (EA) et le syndrome RED-S ?",
+    "a": "L'EA est l'énergie disponible pour les fonctions physiologiques après déduction du coût énergétique de l'entraînement. En dessous de 30 kcal/kg de masse maigre/jour, le syndrome RED-S (Relative Energy Deficiency in Sport) s'installe : perturbations hormonales, osseuses, immunitaires et de la performance."
+  },
+  {
+    "n": 161,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Combien de % du poids corporel est constitué d'eau chez un adulte ?",
+    "a": "Environ 60% chez l'homme adulte, 55% chez la femme (les muscles sont plus riches en eau que les graisses)."
+  },
+  {
+    "n": 162,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la sueur et quelle est sa composition ?",
+    "a": "Un liquide produit par les glandes sudoripares pour réguler la température corporelle. Elle contient principalement de l'eau, du sodium (principal), du potassium, du chlorure, du magnésium et un peu de calcium."
+  },
+  {
+    "n": 163,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Quel est le mécanisme de régulation de la pression osmotique via la vasopressine (ADH) ?",
+    "a": "Les osmorécepteurs de l'hypothalamus détectent une augmentation de l'osmolarité plasmatique → libération d'ADH par la neurohypophyse → réabsorption d'eau au niveau des tubes collecteurs du rein via les aquaporines AQP2 → dilution du plasma et réduction de la diurèse."
+  },
+  {
+    "n": 164,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un exercice poly-articulaire ?",
+    "a": "Un exercice qui sollicite plusieurs articulations simultanément, comme le squat (hanche, genou, cheville) ou le développé couché (épaule, coude). Ils sont plus efficaces pour l'hypertrophie globale."
+  },
+  {
+    "n": 165,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce qu'un exercice d'isolation ?",
+    "a": "Un exercice ciblant un seul muscle ou groupe musculaire via une seule articulation, comme le curl biceps ou l'extension triceps à la poulie."
+  },
+  {
+    "n": 166,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la fréquence d'entraînement optimale par muscle ?",
+    "a": "Les études suggèrent qu'entraîner chaque muscle 2 fois par semaine est optimal pour l'hypertrophie, car le stimulus fréquent maximise les périodes de MPS élevée."
+  },
+  {
+    "n": 167,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce qu'un programme Push/Pull/Legs ?",
+    "a": "Un split d'entraînement divisant les séances en : Push (pectoraux, épaules, triceps), Pull (dos, biceps) et Legs (quadriceps, ischios, mollets). Souvent réalisé 6 jours sur 7."
+  },
+  {
+    "n": 168,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la fatigue neuromusculaire centrale vs périphérique ?",
+    "a": "Périphérique : altérations dans le muscle (déplétion d'ATP, accumulation de Pi, acidose). Centrale : réduction de la commande neurale du cortex moteur vers le muscle, impliquant la sérotonine, le GABA et les afférences du groupe III/IV depuis le muscle. La fatigue centrale limite souvent l'effort avant la défaillance périphérique."
+  },
+  {
+    "n": 169,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que la théorie du gouverneur central de Tim Noakes et ses implications pour la musculation ?",
+    "a": "La théorie postule que le cerveau (gouverneur central) limite l'effort musculaire avant toute défaillance physiologique réelle, en guise de mécanisme de protection. La perception de la fatigue est une émotion régulée, pas un signal de défaillance imminente. Cela implique que les limites perçues peuvent être repoussées par l'entraînement mental, la motivation et la manipulation des afférences."
+  },
+  {
+    "n": 170,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'ATP et pourquoi est-il important en musculation ?",
+    "a": "L'Adénosine Triphosphate est la monnaie énergétique universelle de la cellule. Sa déplétion et sa régénération (via les 3 filières : phosphagène, glycolyse, oxydative) déterminent la capacité à maintenir l'effort."
+  },
+  {
+    "n": 171,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la filière anaérobie alactique et dans quel contexte musculaire est-elle dominante ?",
+    "a": "La filière phosphagène (ATP-PCr) fournit de l'énergie sans oxygène ni lactate, sur 0-10 secondes d'effort maximal. Dominante lors des séries très courtes et explosives (1-3 reps max, sprints)."
+  },
+  {
+    "n": 172,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Comment l'entraînement augmente-t-il la capacité tampon du muscle (buffering capacity) ?",
+    "a": "L'entraînement à haute intensité augmente la concentration en carnosine (bêta-alanyl-L-histidine) dans les fibres de type II, améliorant la capacité à tamponner les ions H+. Il augmente aussi la densité mitochondriale et la capacité de recyclage du lactate en pyruvate."
+  },
+  {
+    "n": 173,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Qu'est-ce que la nutrition post-workout ?",
+    "a": "La consommation de protéines et glucides après l'entraînement pour relancer la synthèse protéique, reconstituer le glycogène et optimiser la récupération."
+  },
+  {
+    "n": 174,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la contraction excentrique et pourquoi provoque-t-elle plus de DOMS ?",
+    "a": "La contraction excentrique (muscle qui s'allonge sous charge) génère plus de dommages myofibrillaires que la concentrique car les fibres absorbent une force supérieure à leur capacité de production active, causant des micro-déchirures plus importantes."
+  },
+  {
+    "n": 175,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Expliquez le phénomène de 'repeated bout effect' (RBE) dans le contexte des DOMS.",
+    "a": "Après un premier épisode de dommages excentriques, le muscle s'adapte et devient résistant aux épisodes suivants similaires : réduction des DOMS, de la perte de force et des marqueurs d'inflammation. Le mécanisme implique des adaptations mécaniques (titin plus rigide), neurologiques (recrutement optimisé) et cellulaires (augmentation des cellules satellites)."
+  },
+  {
+    "n": 176,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'adrénaline (épinéphrine) et son rôle lors d'un entraînement intense ?",
+    "a": "Une catécholamine libérée lors d'un effort intense (système sympathique). Elle augmente le rythme cardiaque, la libération de glucose et les acides gras, et prépare le corps à l'effort ('fight or flight')."
+  },
+  {
+    "n": 177,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Quel est l'effet de l'entraînement sur la sensibilité aux androgènes (récepteurs à la testostérone) ?",
+    "a": "L'entraînement de résistance augmente la densité et la sensibilité des récepteurs aux androgènes dans le tissu musculaire, permettant une meilleure utilisation de la testostérone disponible, même sans augmenter son taux sanguin."
+  },
+  {
+    "n": 178,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Qu'est-ce que l'axe HPA (hypothalamo-hypophyso-surrénalien) et son rôle dans la réponse au stress d'entraînement ?",
+    "a": "L'hypothalamus libère CRH → hypophyse libère ACTH → glandes surrénales produisent cortisol. L'entraînement intense active transitoirement cet axe (cortisol aigu = anabolique indirect). Activé chroniquement par le surentraînement ou le stress psychologique → catabolisme musculaire, immunosuppression."
+  },
+  {
+    "n": 179,
+    "cat": "hormones",
+    "diff": "expert",
+    "q": "Qu'est-ce que le concept de 'hormesis' appliqué au stress hormonal de l'entraînement ?",
+    "a": "L'hormesis décrit une réponse biphasique : à faible dose, un stimulus stressant (cortisol, ROS, inflammation) déclenche une adaptation bénéfique ; à forte dose, il devient délétère. L'entraînement est un stresseur hormétique : la dose optimale déclenche l'adaptation (hypertrophie, résistance au stress oxydatif), la surdose cause le surentraînement."
+  },
+  {
+    "n": 180,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "À quelle heure est-il préférable de s'entraîner pour ne pas perturber le sommeil ?",
+    "a": "Idéalement en matinée ou en fin d'après-midi. S'entraîner trop tard le soir (après 20h) peut élever la température corporelle et la noradrénaline, retardant l'endormissement."
+  },
+  {
+    "n": 181,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Quel est l'effet de la température ambiante sur la qualité du sommeil récupérateur ?",
+    "a": "La baisse de température corporelle est un signal clé pour l'endormissement et le sommeil profond. Une chambre entre 16-19°C est optimale. Une température trop élevée réduit le sommeil profond et REM."
+  },
+  {
+    "n": 182,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que la prise de masse et la sèche ?",
+    "a": "La prise de masse = surplus calorique + entraînement pour développer du muscle (avec un peu de gras). La sèche = déficit calorique pour perdre du gras tout en préservant le muscle."
+  },
+  {
+    "n": 183,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Combien de temps après l'entraînement faut-il consommer des protéines ?",
+    "a": "Dans les 1 à 2 heures post-entraînement pour maximiser la synthèse protéique, mais l'impact est modeste si l'apport protéique quotidien total est adéquat."
+  },
+  {
+    "n": 184,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Pourquoi la whey est-elle supérieure aux protéines végétales pour la musculation ?",
+    "a": "La whey a un profil en acides aminés essentiels complet et une forte teneur en leucine, une absorption rapide et un score PDCAAS de 1. Les protéines végétales sont souvent incomplètes et moins digestes, sauf si combinées."
+  },
+  {
+    "n": 185,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la recomposition corporelle et dans quelles conditions est-elle possible ?",
+    "a": "Perdre de la graisse et gagner du muscle simultanément. Possible principalement chez les débutants, les personnes reprenant après une longue pause (muscle memory) et chez les individus en surplus de masse grasse avec des apports protéiques élevés."
+  },
+  {
+    "n": 186,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Qu'est-ce que la voie PI3K/Akt et comment les acides aminés et l'insuline l'activent-ils ?",
+    "a": "L'insuline active son RTK → IRS-1 → PI3K → PIP3 → PDK1 → phosphorylation d'Akt sur Thr308 et Ser473 (par mTORC2). Akt active mTORC1 (via inhibition de TSC1/2), active AS160 (translocation GLUT4) et inhibe GSK-3β (synthèse glycogène) et FoxO (protéolyse)."
+  },
+  {
+    "n": 187,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Quel est le rôle du chlorure dans l'équilibre hydrique ?",
+    "a": "Le chlorure (Cl-) est le principal anion extracellulaire, accompagnant le sodium pour maintenir l'osmolarité et l'équilibre acido-basique. Il est aussi composant de l'HCl gastrique."
+  },
+  {
+    "n": 188,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Comment la déshydratation affecte-t-elle la force maximale vs l'endurance musculaire ?",
+    "a": "La déshydratation affecte davantage l'endurance musculaire que la force maximale à court terme. Dès 2% de déshydratation, la capacité aérobie et la résistance à la fatigue chutent significativement, alors que la force pure (1RM) est relativement préservée jusqu'à ~3-4%."
+  },
+  {
+    "n": 189,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce qu'un programme full body vs split ?",
+    "a": "Full body = entraîner tous les groupes musculaires dans la même séance (idéal 3x/semaine). Split = diviser les groupes par séance (ex : pectoraux/triceps lundi, dos/biceps mercredi). Le full body est souvent recommandé pour les débutants."
+  },
+  {
+    "n": 190,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que l'hypertrophie induite par la charge vs le volume ?",
+    "a": "La charge (intensité haute, >80% 1RM) favorise l'hypertrophie myofibrillaire et la force. Le volume élevé (charges modérées, reps élevées) favorise l'hypertrophie sarcoplasmique et le stress métabolique. Les deux sont complémentaires dans une programmation équilibrée."
+  },
+  {
+    "n": 191,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la filière anaérobie lactique et quand est-elle dominante ?",
+    "a": "La glycolyse anaérobie produit de l'ATP + lactate sans O2, active sur 10 secondes à 2 minutes d'effort intense (séries de 10-30 reps, sprints de 200-400m). C'est la filière du stress métabolique en musculation."
+  },
+  {
+    "n": 192,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Expliquez la théorie de la fatigue musculaire par le 'phosphate inorganique et calcium coupling failure'.",
+    "a": "L'accumulation de Pi dans le SR (réticulum sarcoplasmique) forme du Ca-Pi insoluble, réduisant la concentration effective de Ca²+ libre disponible pour la troponine. Simultanément, le Pi réduit la force générée par chaque pont actine-myosine en ralentissant la libération du Pi post-hydrolyse de l'ATP (étape limitante du cycle des ponts). Ces deux mécanismes expliquent la majorité de la fatigue lors des efforts glycolytiques intenses."
+  },
+  {
+    "n": 193,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la périostite et comment l'éviter en musculation ?",
+    "a": "Une inflammation du périoste (enveloppe de l'os) causée par des charges répétitives excessives. En musculation, elle touche souvent le tibia. Se prévient par une augmentation progressive des charges, un chaussage adapté et une récupération suffisante."
+  },
+  {
+    "n": 194,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Quel est le rôle du protéasome dans la récupération musculaire après l'effort ?",
+    "a": "Le protéasome 26S dégrade les protéines oxydées ou endommagées marquées par l'ubiquitine, nettoyant la cellule musculaire post-effort. Ce processus est essentiel avant de reconstruire de nouvelles protéines. La GH et l'IGF-1 inhibent partiellement cette dégradation pour préserver les protéines fonctionnelles."
+  },
+  {
+    "n": 195,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la prolactine et quel est son rapport avec la musculation ?",
+    "a": "Une hormone hypophysaire qui peut être élevée par le surentraînement ou le stress chronique. Une hyperprolactinémie inhibe la production de testostérone via suppression de la GnRH et LH, nuisant aux gains musculaires."
+  },
+  {
+    "n": 196,
+    "cat": "sommeil",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la chronobiologie et comment influence-t-elle la programmation de l'entraînement ?",
+    "a": "La chronobiologie étudie les rythmes biologiques. La force musculaire maximale, la vitesse de réaction et la VO2max atteignent leur pic en fin d'après-midi (16-18h) en raison de l'élévation de la température corporelle, du cortisol déclinant et de la testostérone stable. S'entraîner à ce moment est optimal pour la performance."
+  },
+  {
+    "n": 197,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Quel est le rôle de la ribose dans la régénération de l'ATP et est-ce un complément utile ?",
+    "a": "La D-ribose est un sucre à 5 carbones précurseur de l'ATP via la voie de la purine. En théorie, elle accélère la régénération de l'ATP post-effort intense. En pratique, les études montrent un bénéfice principalement chez les sujets cardiaques ou lors d'exercices très intenses répétés. L'intérêt pour la musculation standard reste limité."
+  },
+  {
+    "n": 198,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que la théorie de la 'double progression' en musculation pratique ?",
+    "a": "Un principe de programmation consistant à d'abord augmenter les répétitions dans une fourchette cible (ex: 8-12), puis quand la limite haute est atteinte sur toutes les séries, augmenter la charge et recommencer depuis la limite basse. Simple, efficace et auto-régulant."
+  },
+  {
+    "n": 199,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la VO2max et peut-on l'améliorer avec la musculation ?",
+    "a": "La VO2max est la consommation maximale d'O2 exprimée en mL/kg/min, mesure de la capacité aérobie. La musculation l'améliore modestement (surtout par augmentation de la masse musculaire et de la capillarisation). L'amélioration significative nécessite du cardio-training (intervalles haute intensité)."
+  },
+  {
+    "n": 200,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Qu'est-ce que la régulation de la chaleur par les protéines de choc thermique (HSP) dans la récupération musculaire ?",
+    "a": "Les HSP (notamment HSP70, HSP90) sont des chaperonnes moléculaires surexprimées lors d'un stress thermique ou mécanique. Elles stabilisent les protéines dénaturées, facilitent leur repliement ou leur dégradation, protègent les cellules musculaires des dommages et facilitent la récupération. L'entraînement régulier augmente leur expression basale."
+  },
+  {
+    "n": 201,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que la protéine de soja et est-elle efficace pour la musculation ?",
+    "a": "Une protéine végétale complète (contient tous les acides aminés essentiels). Efficace pour la musculation, mais légèrement inférieure à la whey en termes de teneur en leucine et vitesse d'absorption."
+  },
+  {
+    "n": 202,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Faut-il manger avant l'entraînement ?",
+    "a": "Oui, un repas ou collation 1-2h avant l'entraînement apporte l'énergie nécessaire. Un repas trop proche peut causer des inconforts digestifs."
+  },
+  {
+    "n": 203,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Quelle est la différence entre masse sèche et masse grasse ?",
+    "a": "La masse sèche (ou masse maigre) comprend muscles, os, organes, eau. La masse grasse est le tissu adipeux. L'objectif en musculation est d'augmenter la masse sèche et réduire la masse grasse."
+  },
+  {
+    "n": 204,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la charge glycémique (CG) et en quoi diffère-t-elle de l'index glycémique (IG) ?",
+    "a": "La CG prend en compte à la fois l'IG et la quantité de glucides dans une portion. CG = IG × glucides (g) / 100. Un aliment à IG élevé mais en petite quantité peut avoir une CG basse (ex: pastèque)."
+  },
+  {
+    "n": 205,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la biodisponibilité d'un nutriment ?",
+    "a": "La proportion d'un nutriment ingéré qui est effectivement absorbée et utilisée par l'organisme. Elle dépend de la forme chimique, de la matrice alimentaire, de la présence d'autres nutriments et de l'état de santé."
+  },
+  {
+    "n": 206,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Pourquoi la glycation est-elle néfaste pour les sportifs à long terme ?",
+    "a": "La glycation (réaction de Maillard biologique) est la liaison non enzymatique du glucose aux protéines, formant des AGE (Advanced Glycation End-products). Elle rigidifie les tendons et le collagène, altère la fonction rénale et vasculaire, et accélère le vieillissement musculaire."
+  },
+  {
+    "n": 207,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Expliquez le rôle de la voie Wnt/β-caténine dans la différenciation des cellules souches musculaires et comment la nutrition l'influence.",
+    "a": "La voie Wnt active la β-caténine qui agit comme facteur de transcription pro-myogénique (active MyoD, myogénine). Une alimentation riche en folates, vitamines B et méthionine maintient une méthylation optimale des promoteurs Wnt. Les AGE (sucres pro-inflammatoires) et les acides gras saturés inhibent cette voie, réduisant la régénération musculaire."
+  },
+  {
+    "n": 208,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Les boissons protéinées hydratent-elles autant que l'eau ?",
+    "a": "Non, les boissons protéinées sont hyperosmotiques et nécessitent de l'eau pour être digérées. Elles doivent être consommées en complément de l'eau, pas à sa place."
+  },
+  {
+    "n": 209,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le plan d'hydratation pendant une séance longue (>60 min) ?",
+    "a": "Boire 150-250 ml toutes les 15-20 minutes. Pour les séances > 60-90 min, intégrer des électrolytes (sodium notamment) pour compenser les pertes par la sueur et maintenir les performances."
+  },
+  {
+    "n": 210,
+    "cat": "hydratation",
+    "diff": "difficile",
+    "q": "Quel est l'impact de la déshydratation sur la synthèse protéique musculaire ?",
+    "a": "La déshydratation réduit le volume cellulaire (cell shrinkage), ce qui inhibe mTOR et la MPS. Elle augmente aussi la dégradation protéique via l'activation de la voie ubiquitine-protéasome. Une hydratation optimale est donc directement anabolique."
+  },
+  {
+    "n": 211,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que la répétition forcée ?",
+    "a": "Une technique où un partenaire aide à compléter des répétitions au-delà de l'échec musculaire, permettant de dépasser les limites habituelles."
+  },
+  {
+    "n": 212,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'étirement dynamique et quand l'utiliser ?",
+    "a": "Des mouvements actifs d'amplitudes croissantes (pas de position tenue), idéaux en échauffement pour préparer les articulations et muscles à l'effort sans réduire la force."
+  },
+  {
+    "n": 213,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la méthode des répétitions partielles ?",
+    "a": "Effectuer le mouvement sur une portion réduite de l'amplitude, souvent dans la zone où le muscle est le plus tendu, pour accentuer la tension sur la partie souhaitée du mouvement."
+  },
+  {
+    "n": 214,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le principe de récupération incomplète et comment l'utiliser ?",
+    "a": "Prendre des temps de repos insuffisants pour récupérer complètement (30-60s au lieu de 2-3min), ce qui augmente le stress métabolique et la densité d'entraînement, favorisant l'hypertrophie et l'endurance musculaire."
+  },
+  {
+    "n": 215,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le 'cluster set' et pourquoi améliore-t-il la qualité des répétitions ?",
+    "a": "Le cluster set fractionne une série en mini-séries avec de micro-pauses (10-20s). Ex : 10 reps = 5 reps + pause 15s + 5 reps. Cela permet de maintenir une vitesse d'exécution et une technique optimales avec une charge plus élevée qu'une série classique."
+  },
+  {
+    "n": 216,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que le 'velocity based training' (VBT) et comment optimise-t-il la programmation ?",
+    "a": "Le VBT utilise des capteurs (encodeurs, accéléromètres) pour mesurer la vitesse de la barre en m/s. Chaque exercice a une plage de vitesse associée à chaque %1RM. Cela permet d'adapter la charge en temps réel selon la fatigue du jour (si la vitesse chute > 20%, la séance est terminée), objectivant la surcharge progressive et évitant le surentraînement."
+  },
+  {
+    "n": 217,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que la douleur musculaire pendant la série (brûlure) et à quoi sert-elle en musculation ?",
+    "a": "La brûlure indique l'accumulation de métabolites (H+, Pi) — signal de stress métabolique élevé. Associée à un pump fort, elle indique une hypertrophie potentielle. Pousser dans cette zone de tolérance (sans blessure) est bénéfique."
+  },
+  {
+    "n": 218,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Quel est l'effet des antioxydants (vitamine C et E) à haute dose sur les adaptations à l'entraînement ?",
+    "a": "Paradoxalement, de hautes doses de vitamines C et E peuvent inhiber les adaptations à l'entraînement en neutralisant les ROS qui servent de signaux pour la biogenèse mitochondriale et mTOR. Mieux vaut les obtenir via l'alimentation que via des suppléments à haute dose."
+  },
+  {
+    "n": 219,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la théorie de la 'mechanical tension vs metabolic stress' dans l'hypertrophie et quel stimulus est prédominant ?",
+    "a": "Les deux contribuent à l'hypertrophie mais par des mécanismes différents. La tension mécanique (charges lourdes) active directement les mécanosenseurs et mTOR. Le stress métabolique agit via le gonflement cellulaire, les hormones locales et le recrutement des fibres rapides. La littérature récente suggère que la tension mécanique est le stimulus prédominant, le stress métabolique étant amplificateur."
+  },
+  {
+    "n": 220,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Quel est le rôle de l'hypoxie intramusculaire locale dans le BFR et comment active-t-elle les voies anaboliques ?",
+    "a": "L'occlusion veineuse crée une hypoxie et une acidose locales → activation de HIF-1α (Hypoxia-Inducible Factor) → régulation de gènes pro-anaboliques et pro-survie. L'hypoxie stimule aussi VEGF (vascularisation) et la prolifération des cellules satellites. Ces signaux s'ajoutent au recrutement forcé des fibres rapides et au stress métabolique pour produire une hypertrophie significative avec de faibles charges."
+  },
+  {
+    "n": 221,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Combien de temps attendre avant de ré-entraîner un même muscle ?",
+    "a": "En général 48 à 72 heures, selon l'intensité et le volume. Les débutants récupèrent souvent plus lentement que les athlètes expérimentés."
+  },
+  {
+    "n": 222,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Quel est le rôle de l'alimentation post-workout pour limiter le catabolisme ?",
+    "a": "Consommer des protéines (20-40g) et des glucides après l'effort stoppe la dégradation protéique induite par l'effort, recharge le glycogène et déclenche la MPS — limitant le catabolisme net."
+  },
+  {
+    "n": 223,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la mémoire musculaire au niveau cellulaire (myonuclear domain theory) ?",
+    "a": "L'hypertrophie s'accompagne d'une augmentation du nombre de myonoyaux (issus de la fusion de cellules satellites). Lors de la désentraînement, les fibres rétrécissent mais conservent leurs myonoyaux supplémentaires (pendant des décennies selon certaines études). Lors de la reprise, la re-croissance est accélérée car les myonoyaux sont déjà présents."
+  },
+  {
+    "n": 224,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Expliquez le rôle de l'autophagie mitophagique (mitophagie) dans la qualité musculaire et comment l'entraînement l'active.",
+    "a": "La mitophagie est la dégradation sélective des mitochondries endommagées via les récepteurs PINK1/Parkin. L'exercice d'endurance et les efforts intenses activent AMPK et PGC-1α, déclenchant simultanément la biogenèse mitochondriale (nouvelles mitochondries) et la mitophagie (élimination des vieilles). Ce turnover maintient une population mitochondriale de qualité, améliorant la récupération énergétique et réduisant le stress oxydatif chronique."
+  },
+  {
+    "n": 225,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'adénosine et son rôle dans la fatigue ?",
+    "a": "Un nucléoside qui s'accumule dans le cerveau pendant l'éveil et crée la pression de sommeil. Son accumulation signale la fatigue. La caféine en bloque les récepteurs, réduisant temporairement la sensation de fatigue."
+  },
+  {
+    "n": 226,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Quel est le lien entre la leptine et la testostérone en situation de déficit calorique sévère ?",
+    "a": "En déficit sévère, la leptine chute, ce qui signale à l'hypothalamus de réduire la production de GnRH → baisse de LH → baisse de testostérone. C'est un mécanisme de survie qui sacrifie la reproduction et l'anabolisme pour économiser l'énergie."
+  },
+  {
+    "n": 227,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Qu'est-ce que l'aromatase et quelles sont les conséquences d'un excès ou d'un déficit d'aromatisation chez l'homme en musculation ?",
+    "a": "L'aromatase (CYP19A1) convertit la testostérone en estradiol. Excès (obésité, âge) → taux d'estradiol élevé → gynécomastie, rétention d'eau, suppression de la LH. Déficit (inhibiteurs d'aromatase) → estradiol trop bas → douleurs articulaires, libido basse, densité osseuse réduite, altération des performances."
+  },
+  {
+    "n": 228,
+    "cat": "hormones",
+    "diff": "expert",
+    "q": "Expliquez la régulation de la GH par GHRH, somatostatine et ghréline et comment l'optimiser naturellement.",
+    "a": "GHRH (hypothalamus) stimule la GH. Somatostatine (hypothalamus) l'inhibe. Ghréline (estomac + hypothalamus) la stimule via GHS-R1a de façon synergique au GHRH. Pour optimiser naturellement : sommeil profond (pic de GH nocturne), entraînement intense (lactate inhibe la somatostatine), jeûne court (↓ insuline → ↓ inhibition GH), éviter les pics d'insuline avant le coucher."
+  },
+  {
+    "n": 229,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le déficit de sommeil chronique et ses conséquences sur la composition corporelle ?",
+    "a": "Un déficit régulier (< 6h/nuit) réduit la testostérone de 10-15%, augmente le cortisol chronique, élève la ghréline, réduit la leptine, altère la tolérance au glucose et réduit la MPS — résultat : prise de gras et perte de muscle simultanées."
+  },
+  {
+    "n": 230,
+    "cat": "sommeil",
+    "diff": "expert",
+    "q": "Quel est le lien entre la variabilité de la fréquence cardiaque (VFC/HRV) et la qualité de récupération du sommeil ?",
+    "a": "La HRV reflète l'équilibre sympathique/parasympathique. Un HRV élevé au réveil indique une bonne récupération (dominance parasympathique). Un HRV bas signale un état de stress ou de sous-récupération. Le N3 et le REM augmentent la HRV nocturne. Mesurer la HRV matinale permet d'objectiver la charge d'entraînement tolérable le jour même."
+  },
+  {
+    "n": 231,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la périodisation nutritionnelle ?",
+    "a": "Adapter les apports caloriques et en macronutriments selon les phases d'entraînement (surplus en prise de masse, déficit en sèche) et les jours (plus de glucides les jours d'entraînement intensif, moins les jours de repos)."
+  },
+  {
+    "n": 232,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la régulation à la baisse du métabolisme (adaptation métabolique) lors d'une sèche prolongée ?",
+    "a": "Lors d'un déficit calorique prolongé, le corps réduit ses dépenses énergétiques : baisse de la thermogenèse, de la NEAT (Non-Exercise Activity Thermogenesis), de la GH et de la leptine, et augmentation de l'efficacité métabolique — phénomène appelé adaptation métabolique ou 'starvation response'."
+  },
+  {
+    "n": 233,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Faut-il boire de l'eau pendant les repas et est-ce que ça dilue les sucs gastriques ?",
+    "a": "Boire modérément pendant les repas n'impacte pas significativement la digestion. L'estomac s'adapte en augmentant la production d'HCl si nécessaire. En revanche, boire excessivement peut diluer légèrement les enzymes digestives."
+  },
+  {
+    "n": 234,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la densité d'entraînement et comment l'augmenter ?",
+    "a": "La quantité de travail effectuée par unité de temps. On l'augmente en réduisant les temps de repos, en utilisant des supersets/circuits ou en optimisant la sélection des exercices — sans compromettre la technique."
+  },
+  {
+    "n": 235,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le 'Bulgarian Method' et pourquoi est-il controversé ?",
+    "a": "Un programme de force où l'on s'entraîne au maximum absolu quotidiennement sur des mouvements clés (squat, développé, soulevé), avec plusieurs séances par jour. Très efficace pour l'élite mais à haut risque de blessures et de surentraînement sans une récupération parfaite."
+  },
+  {
+    "n": 236,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Pourquoi les séries longues (20+ reps) génèrent-elles un stress métabolique supérieur aux séries courtes ?",
+    "a": "Les séries longues maintiennent le muscle sous tension glycolytique prolongée, accumulant plus de lactate, H+ et Pi. Elles épuisent aussi les réserves de phosphocréatine et de glycogène local, créant un milieu intramusculaire très acide — maximalisant le stress métabolique."
+  },
+  {
+    "n": 237,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la technique de compression (vêtements compressifs) et son impact sur la récupération ?",
+    "a": "Les vêtements compressifs améliorent le retour veineux et lymphatique, réduisant l'œdème post-exercice et les DOMS. Les preuves scientifiques restent modérées mais l'effet sur la perception de la fatigue est souvent positif."
+  },
+  {
+    "n": 238,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la fenêtre hormonale post-entraînement et comment en profiter ?",
+    "a": "Après l'entraînement, la testostérone et la GH sont élevées (~15-30 min). Consommer des protéines et glucides dans cette fenêtre maximise l'effet anabolique de ces hormones sur la synthèse protéique et la recharge du glycogène."
+  },
+  {
+    "n": 239,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Quel est l'impact de la lumière du matin sur le rythme circadien et les performances sportives ?",
+    "a": "L'exposition à la lumière naturelle le matin synchronise l'horloge circadienne, avance le pic de cortisol matinal (éveille), stabilise les rythmes hormonaux et améliore la qualité du sommeil nocturne — optimisant la récupération et les performances."
+  },
+  {
+    "n": 240,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le principe 80/20 appliqué à la nutrition sportive ?",
+    "a": "Optimiser 80% de ses apports nutritionnels (protéines suffisantes, bons glucides, hydratation) et laisser 20% de flexibilité pour des aliments plaisirs, pour maintenir l'adhérence sur le long terme sans compromettre significativement les résultats."
+  },
+  {
+    "n": 241,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que la technique de respiration correcte lors d'un exercice de musculation ?",
+    "a": "Inspirer lors de la phase excentrique (descente) et expirer lors de la phase concentrique (montée). Pour les efforts maximaux, la manœuvre de Valsalva (blocage respiratoire court) stabilise le tronc."
+  },
+  {
+    "n": 242,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la manœuvre de Valsalva et quand est-elle utilisée ?",
+    "a": "Un blocage de la respiration en inspirant profondément et en contractant l'abdomen pour créer une pression intra-abdominale élevée, stabilisant la colonne vertébrale lors des efforts lourds (squat, soulevé de terre). Déconseillée chez les hypertendus."
+  },
+  {
+    "n": 243,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la stabilité lombaire et pourquoi est-elle critique en musculation ?",
+    "a": "La stabilité lombaire est maintenue par la co-activation des muscles du tronc profonds (transverse de l'abdomen, multifides) créant une ceinture abdominale naturelle. Sans elle, les charges lourdes transfèrent des forces excessives sur les disques intervertébraux, augmentant le risque de hernie."
+  },
+  {
+    "n": 244,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que les oméga-3 et pourquoi sont-ils bénéfiques pour les sportifs ?",
+    "a": "Des acides gras essentiels (EPA et DHA) aux propriétés anti-inflammatoires. Ils réduisent l'inflammation post-exercice, améliorent la composition des membranes cellulaires et peuvent augmenter la sensibilité à l'insuline."
+  },
+  {
+    "n": 245,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la citrulline malate et son utilité en musculation ?",
+    "a": "Un acide aminé qui améliore la production d'oxyde nitrique (vasodilatation → meilleur pump), réduit la fatigue en éliminant l'ammoniac et améliore l'endurance musculaire. Dose efficace : 6-8g avant l'entraînement."
+  },
+  {
+    "n": 246,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Le thé et les tisanes comptent-ils dans l'apport hydrique quotidien ?",
+    "a": "Oui, le thé et les tisanes (non caféinés ou modérément caféinés) contribuent à l'hydratation quotidienne. Le thé noir et vert contiennent de la caféine mais restent hydratants à dose normale."
+  },
+  {
+    "n": 247,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Pourquoi le temps de repos entre les séries influence-t-il le type d'adaptation ?",
+    "a": "Repos court (30-90s) → stress métabolique élevé → hypertrophie sarcoplasmique, endurance musculaire. Repos long (3-5 min) → récupération ATP-PCr plus complète → plus de force, meilleures performances par série → hypertrophie myofibrillaire."
+  },
+  {
+    "n": 248,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Faut-il s'étirer avant ou après l'entraînement ?",
+    "a": "Avant : étirements dynamiques (pas statiques — ils réduisent temporairement la force). Après : étirements statiques pour réduire les tensions et améliorer la flexibilité."
+  },
+  {
+    "n": 249,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que le système nerveux sympathique et son rôle pendant l'entraînement ?",
+    "a": "Il prépare le corps à l'effort ('fight or flight') : augmentation du rythme cardiaque, dilatation des bronches, libération d'adrénaline et de glucose, réduction des activités non essentielles (digestion)."
+  },
+  {
+    "n": 250,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Qu'est-ce que la dette de sommeil et peut-on la 'rembourser' ?",
+    "a": "L'accumulation d'un manque de sommeil sur plusieurs jours/semaines. On peut partiellement la rembourser à court terme (week-end), mais les effets chroniques sur la santé et les performances nécessitent un rétablissement sur plusieurs semaines de sommeil régulier."
+  },
+  {
+    "n": 251,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que l'aminoacidémie et comment varie-t-elle avec les différentes sources de protéines ?",
+    "a": "L'aminoacidémie est la concentration en acides aminés circulants dans le sang. La whey crée un pic rapide et élevé (idéal post-effort). La caséine donne une élévation prolongée et modérée. Les protéines végétales ont souvent une aminoacidémie plus faible en acides aminés essentiels (notamment leucine)."
+  },
+  {
+    "n": 252,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Comment la méthylation de l'ADN (épigénétique) est-elle influencée par la nutrition sportive ?",
+    "a": "La méthylation de l'ADN (ajout de groupes méthyl sur les cytosines) régule l'expression des gènes sans modifier la séquence ADN. Les donneurs de méthyle (folate, B12, méthionine, choline) dans l'alimentation influencent l'expression de gènes liés à l'inflammation, à la myogenèse (MyoD, myogénine) et au métabolisme énergétique — offrant un levier nutritionnel sur l'adaptation musculaire."
+  },
+  {
+    "n": 253,
+    "cat": "hydratation",
+    "diff": "expert",
+    "q": "Expliquez le mécanisme de cotransport Na+/K+/2Cl- (NKCC) dans la régulation du volume cellulaire lors de l'exercice.",
+    "a": "Le NKCC1 est un cotransporteur présent dans les cellules musculaires qui régule le volume cellulaire en réponse au rétrécissement (déshydratation). En cas de déshydratation cellulaire, NKCC1 est activé pour faire entrer Na+, K+ et Cl- (et donc de l'eau par osmose), restaurant le volume. Ce mécanisme participe à la résistance partielle à la déshydratation lors d'exercices prolongés."
+  },
+  {
+    "n": 254,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'activation des muscles stabilisateurs et pourquoi est-elle importante ?",
+    "a": "Les muscles stabilisateurs (notamment du tronc, de la coiffe des rotateurs) soutiennent les articulations pendant les mouvements primaires. Leur renforcement améliore la technique, la transmission de force et réduit le risque de blessures."
+  },
+  {
+    "n": 255,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le 'mechanical drop off' et comment le mesure-t-on en pratique ?",
+    "a": "La chute de performance technique ou de vitesse de barre au cours d'une série ou d'une séance, indiquant la fatigue accumulée. En VBT, il se mesure en % de réduction de vitesse. En pratique visuelle, c'est une dégradation de la technique ou de l'amplitude. Il sert à définir le moment d'arrêt optimal d'une série ou d'une séance."
+  },
+  {
+    "n": 256,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Expliquez le rôle de PGC-1α dans l'adaptation mitochondriale au stress métabolique d'entraînement.",
+    "a": "PGC-1α (Peroxisome proliferator-activated receptor-gamma coactivator 1-alpha) est le maître régulateur de la biogenèse mitochondriale. Activé par AMPK (énergie basse) et p38 MAPK (stress oxydatif), il coactive NRF1/2 et TFAM pour augmenter la transcription de gènes mitochondriaux et la réplication de l'ADN mitochondrial. L'entraînement d'endurance et les efforts intenses intermittents sont les plus puissants activateurs de PGC-1α."
+  },
+  {
+    "n": 257,
+    "cat": "recuperation",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la théorie du 'two-factor model' (fitness-fatigue) en programmation de l'entraînement ?",
+    "a": "La performance = Fitness (gain positif, long terme) - Fatigue (impact négatif, court terme). Un stimulus d'entraînement crée simultanément un gain de fitness et de la fatigue. La fatigue étant plus intense mais transitoire, la performance réelle est masquée jusqu'à la récupération. Le deload élimine la fatigue et révèle le gain de fitness sous-jacent."
+  },
+  {
+    "n": 258,
+    "cat": "hormones",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la résistance anabolique et pourquoi augmente-t-elle avec l'âge ?",
+    "a": "La résistance anabolique est la réduction de la réponse musculaire (MPS) à un stimulus donné (protéines, exercice). Avec l'âge : diminution de la sensibilité des récepteurs aux androgènes, réduction de l'IGF-1, inflammation chronique de bas grade (inflammaging) → doses plus élevées de leucine et volumes d'entraînement plus élevés nécessaires pour déclencher la même MPS."
+  },
+  {
+    "n": 259,
+    "cat": "sommeil",
+    "diff": "difficile",
+    "q": "Quel est le lien entre le microbiome intestinal et la qualité du sommeil ?",
+    "a": "Le microbiome produit des neurotransmetteurs (sérotonine = précurseur de la mélatonine, GABA) via l'axe intestin-cerveau (nerf vague). Une dysbiose intestinale (alimentation pauvre, stress) altère la production de sérotonine → perturbation de la mélatonine → sommeil moins réparateur. Les probiotiques et une alimentation riche en fibres peuvent améliorer le sommeil indirectement."
+  },
+  {
+    "n": 260,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que le jeûne intermittent (IF) et est-il compatible avec la prise de masse ?",
+    "a": "Le jeûne intermittent alterne des périodes de jeûne (16h) et d'alimentation (8h). Compatible avec la prise de masse si l'apport protéique et calorique total est atteint dans la fenêtre d'alimentation, mais peut être contraignant et moins optimal que des repas fréquents pour maximiser la MPS sur 24h."
+  },
+  {
+    "n": 261,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que la ceinture de musculation et quand l'utiliser ?",
+    "a": "Un accessoire qui augmente la pression intra-abdominale pour stabiliser la colonne lombaire lors des exercices lourds (squat, soulevé de terre). À réserver pour les charges maximales — une utilisation excessive réduit le renforcement naturel des muscles du tronc."
+  },
+  {
+    "n": 262,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la progression non linéaire en musculation ?",
+    "a": "Contrairement à la progression linéaire (augmenter chaque séance), la progression non linéaire varie l'intensité et le volume selon un plan cyclique (ex: semaine légère/lourde), permettant de progresser sur le long terme quand la progression linéaire n'est plus possible."
+  },
+  {
+    "n": 263,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'occlusion musculaire naturelle lors d'un exercice et son effet métabolique ?",
+    "a": "Lors d'une contraction musculaire soutenue (> 50-60% 1RM), la pression intramusculaire dépasse la pression de perfusion, créant une occlusion partielle spontanée similaire au BFR. Cela accumule des métabolites localement, contribuant au stress métabolique naturel de la série."
+  },
+  {
+    "n": 264,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la thermothérapie (sauna) et son impact sur la récupération musculaire ?",
+    "a": "Le sauna post-exercice améliore la circulation sanguine, réduit les tensions musculaires et peut stimuler la GH (par stress thermique). L'exposition régulière augmente les HSP70 et la résistance au stress cellulaire. Attention : compenser la perte hydrique importante."
+  },
+  {
+    "n": 265,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Quel est l'impact de la vitamine D sur la testostérone ?",
+    "a": "La vitamine D3 active les récepteurs VDR présents dans les cellules de Leydig, favorisant la synthèse de testostérone. Des études montrent qu'une supplémentation en D3 chez des hommes carencés augmente significativement la testostérone totale et libre."
+  },
+  {
+    "n": 266,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la cohérence cardiaque et son lien avec la récupération ?",
+    "a": "Un exercice de respiration (5-6 respirations/min) qui synchronise la fréquence cardiaque avec la respiration, activant le système nerveux parasympathique. Pratiqué avant le coucher, il réduit le cortisol, améliore la HRV et prépare au sommeil réparateur."
+  },
+  {
+    "n": 267,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que le collagène et est-il utile en musculation ?",
+    "a": "La protéine structurelle la plus abondante (tendons, ligaments, os, peau). La supplémentation en collagène hydrolysé (10-15g) avec vitamine C avant l'entraînement peut améliorer la santé tendineuse et articulaire, mais ne stimule pas la MPS musculaire directement (pauvre en leucine)."
+  },
+  {
+    "n": 268,
+    "cat": "hydratation",
+    "diff": "facile",
+    "q": "Quelle est la meilleure boisson de récupération après une séance intense ?",
+    "a": "Un mélange eau + protéines (20-40g) + glucides (30-60g) est idéal pour reconstituer le glycogène et déclencher la MPS. Le lait chocolaté a souvent été cité comme une option économique aux propriétés similaires aux boissons de récupération commerciales."
+  },
+  {
+    "n": 269,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Qu'est-ce que la théorie du 'repeated effort method' de Louie Simmons (Westside Barbell) ?",
+    "a": "Une méthode où l'on effectue des séries à répétitions multiples jusqu'à l'échec ou proche de l'échec avec des charges sous-maximales (50-70% 1RM). Elle recrute les fibres rapides par épuisement des fibres lentes, créant un stimulus de force et d'hypertrophie sans le stress articulaire des charges maximales. Utilisée en alternance avec la méthode maximale et dynamique."
+  },
+  {
+    "n": 270,
+    "cat": "stress",
+    "diff": "difficile",
+    "q": "Qu'est-ce que le 'metabolic flux' et pourquoi importe-t-il plus que la simple concentration en métabolites ?",
+    "a": "Le métabolisme flux (débit métabolique) mesure la vitesse à laquelle les substrats passent par les voies métaboliques, pas seulement leur concentration instantanée. En musculation, un flux glycolytique élevé (production rapide de lactate) génère plus d'adaptation (AMPK, MCT, mitochondries) qu'une concentration en lactate élevée mais statique. C'est pourquoi les intervalles à haute intensité sont plus efficaces pour l'adaptation métabolique que les efforts constants modérés."
+  },
+  {
+    "n": 271,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Expliquez le rôle des exosomes musculaires (myokines exosomales) dans la communication inter-organes lors de l'exercice.",
+    "a": "Le muscle en contraction libère des exosomes (vésicules extracellulaires 30-150 nm) contenant des miRNA, protéines et lipides. Ces myokines exosomales voyagent vers le foie (régulation de la gluconéogenèse), le tissu adipeux (lipolyse via AMPK), le cerveau (BDNF → neuroprotection) et les os (ostéogenèse). Ce réseau de communication systémique explique les bénéfices multi-organes de l'exercice au-delà du muscle lui-même."
+  },
+  {
+    "n": 272,
+    "cat": "hormones",
+    "diff": "expert",
+    "q": "Expliquez comment la résistine et l'adiponectine modulent l'anabolisme musculaire.",
+    "a": "L'adiponectine (haute en maigreur) active AMPK dans le muscle et le foie, améliorant la sensibilité à l'insuline et la biogenèse mitochondriale — bénéfique pour la composition corporelle mais potentiellement antagoniste de mTOR. La résistine (haute en obésité) favorise l'inflammation (NF-κB) et la résistance à l'insuline, inhibant l'anabolisme. L'entraînement et la perte de graisse augmentent l'adiponectine et réduisent la résistine."
+  },
+  {
+    "n": 273,
+    "cat": "sommeil",
+    "diff": "expert",
+    "q": "Quel est le rôle de l'orexine (hypocrétine) dans la régulation du sommeil et des performances sportives ?",
+    "a": "L'orexine (produite dans l'hypothalamus latéral) est un neurotransmetteur pro-éveil qui maintient l'alerte, stimule le système dopaminergique (motivation, récompense) et régule la dépense énergétique. Sa déficience cause la narcolepsie. Son activation optimale pendant la journée (lumière, exercice, repas protéiné) et son inhibition le soir (obscurité, baisse de température) favorisent un cycle sommeil-éveil robuste et des performances sportives optimales."
+  },
+  {
+    "n": 274,
+    "cat": "nutrition",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la palatabilité des aliments et comment influence-t-elle la compliance nutritionnelle en musculation ?",
+    "a": "La palatabilité est l'ensemble des caractéristiques sensorielles (goût, texture, arôme) rendant un aliment agréable à consommer. Les aliments ultra-palatables (sucrés, salés, gras) activent fortement le système dopaminergique, pouvant induire une surconsommation. Optimiser la palatabilité d'une alimentation sportive (assaisonnements, préparations variées) améliore drastiquement l'adhérence au plan nutritionnel."
+  },
+  {
+    "n": 275,
+    "cat": "entrainement",
+    "diff": "difficile",
+    "q": "Qu'est-ce que la 'reactive strength index' (RSI) et comment la mesure-t-on ?",
+    "a": "L'indice de force réactive mesure la capacité à absorber et restituer rapidement de l'énergie élastique. RSI = hauteur de saut / temps de contact au sol. Un RSI élevé indique un cycle étirement-raccourcissement (SSC) efficace, essentiel pour la plyométrie et la vitesse. On le mesure avec un tapis de contact ou un accéléromètre."
+  },
+  {
+    "n": 276,
+    "cat": "stress",
+    "diff": "moyen",
+    "q": "Qu'est-ce que l'acidose métabolique locale et comment le corps la combat-il pendant l'exercice ?",
+    "a": "L'accumulation d'ions H+ (acidose) lors de la glycolyse intense est tamponnée par : la carnosine musculaire (dipeptide histidine-bêta-alanine), les protéines intracellulaires, le bicarbonate plasmatique et l'évacuation du CO2 via la respiration accélérée."
+  },
+  {
+    "n": 277,
+    "cat": "recuperation",
+    "diff": "moyen",
+    "q": "Quelle est la différence entre un anti-inflammatoire (AINS) et une récupération naturelle après l'entraînement ?",
+    "a": "Les AINS (ibuprofène, aspirine) inhibent les COX-1/2, bloquant la synthèse de prostaglandines pro-inflammatoires. Pris systématiquement après l'entraînement, ils réduisent les DOMS mais inhibent également la cascade inflammatoire réparatrice nécessaire à l'hypertrophie et au remodelage du collagène — compromettant les gains à long terme."
+  },
+  {
+    "n": 278,
+    "cat": "hormones",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la thyroïde et son rôle dans la composition corporelle du sportif ?",
+    "a": "La glande thyroïde produit T3 et T4 qui régulent le métabolisme basal. Hypothyroïdie → métabolisme ralenti, fatigue, prise de poids, perte de force. Hyperthyroïdie → métabolisme accéléré, perte de masse musculaire et grasse. L'entraînement de résistance soutient une fonction thyroïdienne normale."
+  },
+  {
+    "n": 279,
+    "cat": "sommeil",
+    "diff": "moyen",
+    "q": "Pourquoi les athlètes s'entraînant le soir ont-ils souvent plus de mal à s'endormir ?",
+    "a": "L'exercice intense augmente la température corporelle, la noradrénaline et l'adrénaline, activant le système nerveux sympathique. Cela retarde la baisse de température et l'élévation de mélatonine nécessaires à l'endormissement. Prévoir 2-3h entre la fin de séance et le coucher."
+  },
+  {
+    "n": 280,
+    "cat": "nutrition",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la créatine et l'effet de la phase de charge ?",
+    "a": "La phase de charge (20g/j pendant 5-7 jours, en 4 prises) sature rapidement les stocks de créatine musculaire. La phase d'entretien (3-5g/j) maintient la saturation. Sans phase de charge, on atteint la saturation en 3-4 semaines avec 3-5g/j. L'effet est identique à terme."
+  },
+  {
+    "n": 281,
+    "cat": "entrainement",
+    "diff": "moyen",
+    "q": "Qu'est-ce que la mobilité et en quoi diffère-t-elle de la flexibilité ?",
+    "a": "La flexibilité est la capacité passive d'un muscle à s'allonger. La mobilité est la capacité active à contrôler le mouvement dans toute l'amplitude articulaire. La mobilité est plus fonctionnelle pour la musculation car elle combine force et amplitude."
+  },
+  {
+    "n": 282,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que la filière aérobie et quand est-elle utilisée en musculation ?",
+    "a": "La filière oxydative utilise l'O2 pour produire de l'ATP via le cycle de Krebs. En musculation, elle est active pendant les périodes de repos entre les séries, la récupération cardio-vasculaire et les séries très longues et légères (endurance musculaire, >30 reps)."
+  },
+  {
+    "n": 283,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Pourquoi la nutrition post-workout doit-elle inclure des glucides, pas seulement des protéines ?",
+    "a": "Les glucides permettent de reconstituer le glycogène musculaire (carburant des prochaines séances), stimulent la sécrétion d'insuline (anabolique) et réduisent le taux de cortisol post-effort, créant un environnement hormonal favorable à la récupération."
+  },
+  {
+    "n": 284,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'hormone de croissance et à quelle heure atteint-elle son pic naturel ?",
+    "a": "La GH est sécrétée de façon pulsatile par l'hypophyse. Son pic naturel le plus important se produit environ 1h après le début du sommeil profond, généralement entre 23h et 1h du matin."
+  },
+  {
+    "n": 285,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Quel est l'impact de la température d'une douche chaude avant le coucher sur le sommeil ?",
+    "a": "Une douche chaude 1-2h avant le coucher accélère paradoxalement l'endormissement : la vasodilatation périphérique dissipe la chaleur corporelle, faisant chuter la température centrale — signal d'endormissement pour le cerveau."
+  },
+  {
+    "n": 286,
+    "cat": "nutrition",
+    "diff": "facile",
+    "q": "Qu'est-ce que les sucres rapides et lents ?",
+    "a": "Les sucres rapides (IG élevé : sucre, pain blanc, jus de fruit) sont absorbés vite et élèvent rapidement la glycémie. Les sucres lents (IG bas : légumineuses, flocons d'avoine, patate douce) sont absorbés progressivement, fournissant une énergie stable."
+  },
+  {
+    "n": 287,
+    "cat": "hydratation",
+    "diff": "moyen",
+    "q": "Est-ce que l'eau froide est mieux absorbée que l'eau à température ambiante ?",
+    "a": "L'eau froide (10-15°C) se vide de l'estomac légèrement plus vite que l'eau chaude et a un effet rafraîchissant qui peut encourager une plus grande consommation. En pratique, la différence est minime pour la performance."
+  },
+  {
+    "n": 288,
+    "cat": "entrainement",
+    "diff": "facile",
+    "q": "Qu'est-ce que la technique de la pré-fatigue ?",
+    "a": "Effectuer un exercice d'isolation avant un exercice poly-articulaire pour pré-fatiguer le muscle cible (ex: écarté avant développé couché). Permet de fatiguer le muscle cible même si d'autres muscles limitent normalement l'effort."
+  },
+  {
+    "n": 289,
+    "cat": "stress",
+    "diff": "facile",
+    "q": "Qu'est-ce que la créatine kinase (CK) et pourquoi son taux sanguin augmente-t-il après l'entraînement ?",
+    "a": "La CK est une enzyme musculaire qui catalyse la régénération de l'ATP via la phosphocréatine. Après un effort intense, les micro-dommages musculaires libèrent la CK dans le sang — c'est un marqueur de dommages musculaires. Un taux très élevé peut indiquer une rhabdomyolyse."
+  },
+  {
+    "n": 290,
+    "cat": "recuperation",
+    "diff": "facile",
+    "q": "Qu'est-ce que la rhabdomyolyse et comment la prévenir ?",
+    "a": "Une dégradation massive des fibres musculaires libérant de la myoglobine dans le sang, pouvant provoquer une insuffisance rénale aiguë. Elle survient lors d'efforts extrêmes non adaptés. Prévention : progression graduelle, hydratation abondante, écouter les signaux du corps."
+  },
+  {
+    "n": 291,
+    "cat": "hormones",
+    "diff": "facile",
+    "q": "Qu'est-ce que l'endorphine et quel est son rapport avec l'entraînement ?",
+    "a": "Des neuropeptides opioïdes libérés lors d'efforts intenses qui réduisent la douleur et procurent une sensation de bien-être ('runner's high'). Elles contribuent à la motivation à s'entraîner régulièrement."
+  },
+  {
+    "n": 292,
+    "cat": "sommeil",
+    "diff": "facile",
+    "q": "Qu'est-ce que le sommeil monophasique, biphasique et polyphasique ?",
+    "a": "Monophasique = une seule période de sommeil par jour (nuit). Biphasique = nuit + sieste (commun historiquement). Polyphasique = plusieurs courtes périodes réparties sur 24h. Pour les sportifs, le monophasique avec sieste courte (biphasique) est optimal."
+  },
+  {
+    "n": 293,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Comment la composition du microbiome intestinal influence-t-elle l'anabolisme musculaire ?",
+    "a": "Le microbiome produit des acides gras à chaîne courte (AGCC : butyrate, propionate) qui améliorent la perméabilité intestinale et l'absorption des acides aminés. Des études récentes montrent que certaines bactéries (Veillonella atypica) métabolisent le lactate de l'exercice en propionate, qui améliore la performance aérobie. Un microbiome diversifié est associé à une meilleure composition corporelle et récupération."
+  },
+  {
+    "n": 294,
+    "cat": "entrainement",
+    "diff": "expert",
+    "q": "Expliquez la différence entre l'entraînement excentriques isolé lourd et le 'nordic hamstring curl' dans le contexte de la prévention des blessures.",
+    "a": "Le nordic hamstring curl est un exercice excentrique issu de la recherche, où les ischio-jambiers résistent à la flexion du genou sous le poids corporel (130-250% du poids). Il augmente la force excentrique distale (chef court du biceps fémoral) et déplace le pic de couple vers des angles d'allongement plus importants, réduisant le risque de lésion musculaire (strain injury) lors des décélérations à haute vitesse. Des études le montrent 51% de réduction des blessures aux ischio-jambiers en football."
+  },
+  {
+    "n": 295,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Qu'est-ce que la théorie de la 'perturbation cellulaire' (cellular perturbation theory) comme mécanisme d'hypertrophie ?",
+    "a": "Proposée par Schoenfeld, elle stipule que les perturbations du volume cellulaire, du pH, de l'O2 et des ions (Na+, K+, H+, Ca²+) lors du stress métabolique activent des cascades de signalisation (MAPK, ERK, p38) qui convergent avec mTOR pour stimuler la synthèse protéique. Ces perturbations seraient perçues comme des menaces à l'homéostasie, déclenchant une adaptation (hypertrophie) pour y résister lors de la prochaine exposition."
+  },
+  {
+    "n": 296,
+    "cat": "recuperation",
+    "diff": "expert",
+    "q": "Qu'est-ce que l'immunosuppression transitoire post-exercice ('open window' theory) et comment la nutrition la limite-t-elle ?",
+    "a": "Après un effort intense (>90min ou très intense), il y a une fenêtre de 3-72h où l'immunité innée et adaptative est transitoirement déprimée (baisse des NK cells, IgA salivaire, neutrophile dysfonction). Mécanisme : cortisol et adrénaline élevés post-effort inhibent les lymphocytes. La nutrition (glucides pendant l'effort, vitamine C, zinc, probiotiques) et un sommeil adéquat limitent cette immunosuppression."
+  },
+  {
+    "n": 297,
+    "cat": "hormones",
+    "diff": "expert",
+    "q": "Qu'est-ce que la signalisation par les Yap/TAZ (mécanotransduction) dans le muscle squelettique ?",
+    "a": "YAP (Yes-associated protein) et TAZ sont des co-activateurs transcriptionnels activés par des signaux mécaniques (étirement, pression) via le cytosquelette et les intégrines. Dans le muscle, ils régulent la prolifération des cellules satellites, la synthèse de collagène et la taille des fibres. L'entraînement excentrique est particulièrement efficace pour les activer, expliquant en partie la supériorité de la phase excentrique pour l'hypertrophie."
+  },
+  {
+    "n": 298,
+    "cat": "sommeil",
+    "diff": "expert",
+    "q": "Comment la fragmentation du sommeil (micro-éveils) affecte-t-elle la sécrétion de GH et la synthèse protéique nocturne ?",
+    "a": "Les micro-éveils (causés par l'apnée, le bruit, la lumière) interrompent les cycles N3, réduisant le temps total en sommeil profond. Chaque interruption du N3 supprime un pic de GH (car la GH est sécrétée pendant N3). Une réduction de 30% du N3 peut diviser par 2 la GH nocturne totale, réduisant la MPS nocturne et l'anabolisme de manière significative malgré une durée totale de sommeil apparemment normale."
+  },
+  {
+    "n": 299,
+    "cat": "nutrition",
+    "diff": "expert",
+    "q": "Qu'est-ce que la 'phosphatidylserine' et quel est son intérêt en musculation ?",
+    "a": "Un phospholipide membranaire qui joue un rôle dans la signalisation cellulaire (notamment dans la transduction des signaux des facteurs de croissance et des kinases). Supplémentée à 400-800mg/j, elle réduit significativement le cortisol post-exercice (jusqu'à 30% selon certaines études), protégeant le muscle du catabolisme en surcharge. C'est l'un des rares suppléments avec des données solides sur la modulation du cortisol."
+  },
+  {
+    "n": 300,
+    "cat": "stress",
+    "diff": "expert",
+    "q": "Expliquez comment la théorie de l'hypertrophie 'unified theory' de Brad Schoenfeld synthétise les trois mécanismes principaux.",
+    "a": "Schoenfeld propose que l'hypertrophie est maximisée par la combinaison de : 1) Tension mécanique (charges lourdes → activation mécanosenseurs → mTOR direct), 2) Stress métabolique (accumulation métabolites → gonflement cellulaire, hormones locales, recrutement fibres rapides → mTOR indirect) et 3) Dommages musculaires (micro-déchirures → inflammation → activation cellules satellites → hypertrophie réparatrice). Les trois se potentialisent mutuellement et justifient une programmation variée incluant charges lourdes, volumes modérés et techniques d'intensification."
+  }
+]
